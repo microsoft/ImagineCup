@@ -4,7 +4,7 @@ This project is a work in progress
 
 # Quizzes
 
-[Quizzes](https://zealous-pebble-06ae2440f.azurestaticapps.net) are contained in the /quiz-app folder, an Azure Static Web App.
+[Quizzes](https://zealous-pebble-06ae2440f.azurestaticapps.net) are contained in the `/quiz-app` folder, an Azure Static Web App. Add quizzes by editing the `en.json` file in `/public`.
 ## Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a

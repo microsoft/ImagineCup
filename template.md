@@ -10,32 +10,35 @@ What we will cover:
 
 Pre-Learning via Learn (link)
 
-Intro quiz (link)
+[Introductory quiz](link)
 
-> Tip:
+> 💡 Tip:
 
-> Callout: 
+> ✅ Callout: 
 
-Content
+## Content
 
 1. Topic 1
 
-> video
+[![video description](./images/screenshot.png)](https://youtube.com/link-here "video description")
+
 > written content
 
 2. Topic 2
 
-> video
+[![video description](./images/screenshot.png)](https://youtube.com/link-here "video description")
+
 > written content
 
 3. Topic 3
 
-> video
+[![video description](./images/screenshot.png)](https://youtube.com/link-here "video description")
+
 > written content
 
-Summary
+## Summary
 
---
+---
 
 ## Resources
 
