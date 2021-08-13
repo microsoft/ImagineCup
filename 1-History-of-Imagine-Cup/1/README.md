@@ -10,7 +10,7 @@ What we will cover:
 
 Pre-Learning via Learn (link)
 
-[Introductory quiz](link)
+[Introductory quiz](https://zealous-pebble-06ae2440f.azurestaticapps.net)
 
 > 💡 Tip:
 
