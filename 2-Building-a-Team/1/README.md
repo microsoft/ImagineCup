@@ -25,9 +25,9 @@ The Garage also hires interns! Learn more about one Garage intern’s experience
 Learn more aobut the Microsoft Garage by visiting https://www.microsoft.com/en-us/garage/.
 
 
-## Lesson
 
-**Topic 1: How to "Start With a Wave"**
+
+## Topic 1: How to "Start With a Wave"
 
 Every big idea starts with a wave—a trend that presents an opportunity. How do you know when a wave has the potential to carry your ideas forward?
 
@@ -43,7 +43,7 @@ Determine whether each wave is something rare.
 Find people with diverse skills to ride the wave with you.
 
 
-**Topic 2: What is a wave?**
+## Topic 2: What is a wave?
 
 Some people associate waves with the ocean, beach, or ripples in a pond. Others associate waves with market changing trends. In this case, a wave is a metaphor for an industry trend on the horizon.
 
@@ -63,7 +63,7 @@ The rise in social media platforms created a need for aggregators and schedulers
 The Coronavirus Pandemic triggered several waves such as the need for contact tracing, public-readable data charts, new mask technology, telemedicine, and remote working environments.
 
 
-**Topic 3: Recruiting Your Team**
+## Topic 3: Recruiting Your Team
 
 As you research waves and socialize your passion for your project, you will meet people with similar passions. Think broadly as you consider who your project needs. Diverse teams have better outcomes.
 
