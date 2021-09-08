@@ -1,15 +1,9 @@
-## Strategies for Choosing Teammates 
-
-> Space for any graphic (optional)
+# Strategies for Choosing Teammates 
 
 What we will cover: 
 - How to "Start With a Wave"
 - What is a wave?
 - Recruiting Your Team
-
-Pre-Learning via Learn (link)
-
-[Introductory quiz](https://zealous-pebble-06ae2440f.azurestaticapps.net)
 
 
 # Introduction
