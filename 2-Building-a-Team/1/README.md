@@ -1,9 +1,9 @@
 # Strategies for Choosing Teammates 
 
 What we will cover: 
-- How to "Start With a Wave"
-- What is a wave?
-- Recruiting Your Team
+- Topic 1: How to "Start With a Wave"
+- Topic 2: What is a wave?
+- Topic 3: Recruiting Your Team
 
 
 # Introduction
