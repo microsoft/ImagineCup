@@ -10,7 +10,7 @@ What we will cover:
 
 This lesson is brought to by the [Microsoft Garage](https://www.microsoft.com/en-us/garage/). The Garage is a program that drives a culture of innovation at Microsoft. The Microsoft Garage delivers programs and experiences to Microsoft employees, customers, and partners that drive collaboration, creativity, and experimentation. The motto “doers, not talkers” continues to be the core of what the Garage is. The Garage attracts people who are passionate about making a difference in the world. They are relentlessly curious and lifelong, hands-on learners. By actively participating in the creative process, regardless of success or failure, each person gets the opportunity to gain valuable insights, increase their knowledge, and learn diverse perspectives.
 
-More information about the Garage is available at: Learn more aobut the Microsoft Garage by visiting https://www.microsoft.com/en-us/garage/.
+More information about the Garage is available [below](https://github.com/microsoft/ImagineCup/blob/main/2-Building-a-Team/1/README.md#the-microsoft-garage-more-information), or by visiting https://www.microsoft.com/en-us/garage/.
 
 ## Topic 1: How to "Start With a Wave"
 
