@@ -12,29 +12,31 @@ This lesson is brought to by the [Microsoft Garage](https://www.microsoft.com/en
 
 More information about the Garage is available [below](https://github.com/microsoft/ImagineCup/blob/main/2-Building-a-Team/1/README.md#the-microsoft-garage-more-information), or by visiting https://www.microsoft.com/en-us/garage/.
 
-## Topic 1: How to "Start With a Wave"
+
+## Topic 1: Your Team & Your 'Wave'
+
+When building a team, one of the most important things to consider is the idea that the team is coming together to build. After the idea is defined, it makes it easier to identify the right teammates and the right skillsets to seek out. The Garage team relates a team's idea with the concept of a "wave." Learn more about "waves" below. 
 
 Every big idea starts with a wave—a trend that presents an opportunity. How do you know when a wave has the potential to carry your ideas forward?
 
-Now, imagine you are a surfer. Watch this video and apply a surfer's mindset to creating your next big idea.
+Now, imagine you are a surfer. Watch the video below and apply a surfer's mindset to creating your next big idea.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tr_5AO08XBA/0.jpg)](https://www.youtube.com/watch?v=tr_5AO08XBA)
 
 As you just saw in the video, a big idea starts with recognizing a wave.
 
 Identify waves—events or trends at a unique point in time.
+
 Determine whether each wave is something rare.
 
-Find people with diverse skills to ride the wave with you.
+After you identify the wave(s) that excite you, find people with diverse skills to ride the wave with you.
 
 
-## Topic 2: What is a wave?
+## Topic 2: Diving Deeper with Waves
 
-Some people associate waves with the ocean, beach, or ripples in a pond. Others associate waves with market changing trends. In this case, a wave is a metaphor for an industry trend on the horizon.
+We now understand that a wave is a metaphor for an industry trend on the horizon. We also know that before building a team, we need to identify our 'wave.'  But what steps should we take to identify our wave? Also, what are some examples of waves? Learn all about it below. 
 
-How has a recent wave affected you, the way you work, or your industry?
-
-Watch this video to see Ed describe a wave and learn from examples of market-changing waves.
+Watch this video to see Garage Team member Ed describe a wave and learn from examples of market-changing waves.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/73poIpSJD0o/0.jpg)](https://www.youtube.com/watch?v=73poIpSJD0o)
 
@@ -47,6 +49,7 @@ Europe's General Data Privacy Regulation (GDPR) led to creating accountability t
 The rise in social media platforms created a need for aggregators and schedulers.
 The Coronavirus Pandemic triggered several waves such as the need for contact tracing, public-readable data charts, new mask technology, telemedicine, and remote working environments.
 
+Now that you understand what waves are and how to identify them, you can move forward with recruiting your team. 
 
 ## Topic 3: Recruiting Your Team
 
