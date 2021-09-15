@@ -11,7 +11,7 @@ What we will cover:
 When working on a team, communication and collaboration are very important. In today's virtual world, there are lots of tools that you and your team can use to work together. In this unit, we outline a few tools that you can use for team communication, work planning, and work execution & collaboration.
 
 ## Topic 1: Microsoft Teams
-Successful teams communicate well. In today's virtual world, it is esseintial to use tools that help your team do just that. Micrsoft Teams is one of many communication platforms that enables you to communicate quickly, and effectively. Lets learn a little bit more about Teams below. 
+Successful teams communicate well. Micrsoft Teams is one of many communication platforms that enables you to communicate quickly, and effectively. Lets learn a little bit more about Teams below. 
 
 ### What is Microsoft Teams?
 As stated on the [Microsoft Website](https://support.microsoft.com/en-us/office/welcome-to-microsoft-teams-b98d533f-118e-4bae-bf44-3df2470c2b12), Microsoft Teams is a collaboration app that helps your team stay organized and have conversations—all in one place. 
