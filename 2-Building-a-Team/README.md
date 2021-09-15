@@ -6,6 +6,6 @@ In this module, you will learn some of teh best practices for building and worki
 
 ## Section Topics
 
-1. [Strategies for choosing teammates that are right for you](1/README.md)
+1. [Strategies for choosing teammates that are right for you](https://github.com/microsoft/ImagineCup/tree/main/2-Building-a-Team/1.%20Strategies%20for%20choosing%20teammates%20that%20are%20right%20for%20you)
 2. [The importance of Team Diversity & Inclusion](2/README.md)
 3. [Collaboration Tools for Your Team](3/README.md)
