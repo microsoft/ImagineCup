@@ -1,45 +1,57 @@
-## Introduction
-
-> Space for any graphic (optional)
+# Collaboration Tools For Your Team
 
 What we will cover: 
+- Topic 1: Microsoft Teams
+- Topic 2: Microsoft Planner
+- Topic 3: Azure DevOps
+- Topic 4: GitHub
 
-- first topic
-- second topic
-- third topic
 
-Pre-Learning via Learn (link)
+# Introduction
 
-[Introductory quiz](https://zealous-pebble-06ae2440f.azurestaticapps.net)
+## Topic 1: Microsoft Teams
+Successful teams communicate well. In today's virtual world, it is esseintial to use tools that help your team do just that. Micrsoft Teams is one of many communication platforms that enables you to communicate quickly, and effectively. Lets learn a little bit more about Teams below. 
 
-> 💡 Tip:
+### What is Microsoft Teams?
+As stated on the [Microsoft Website](https://support.microsoft.com/en-us/office/welcome-to-microsoft-teams-b98d533f-118e-4bae-bf44-3df2470c2b12), Microsoft Teams is a collaboration app that helps your team stay organized and have conversations—all in one place. 
 
-> ✅ Callout: 
+In Teams, the possibilities are endless. But you have 4 primary options when it comes to using Teams to work with others. You can Chat, Meet, Call, and Collaborate. Chatting enables you to Share your opinion and have fun with your team. Send GIFs, stickers, and emojis in a group chat or in one-to-one messages. Then you can meet. You can instantly go from group chat to video conference with the touch of a button. Teams of two or 10,000 can meet in one place from anywhere. On top of that, you can make and receive calls directly in Microsoft Teams with advanced features like group calling, cloud voicemail, and call transfers. And lastly, you can Collaborate by easily finding, sharing, and editing files in real time using familiar apps like Word, PowerPoint, and Excel right in Microsoft Teams.
 
-## Content
+Watch the video below to learn more about Microsoft Teams. 
 
-1. Topic 1
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jugBQqE_2sM/0.jpg)](https://www.youtube.com/watch?v=jugBQqE_2sM)
 
-[![video description](./images/screenshot.png)](https://youtube.com/link-here "video description")
+### How do you get started with Microsoft Teams?
+To get started with Microsoft Teams, [download the Microsoft Teams app](https://www.microsoft.com/en-us/microsoft-teams/download-app) or visit the [Microsoft Teams website](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) and sign up. There is a free option for Microsoft Teams that you can create for your project team.
 
-> written content
+For more information on getting started with Microsoft Teams, visit this [Microsoft 365 Teams YouTube Playlist](https://www.youtube.com/playlist?list=PLXPr7gfUMmKwYKFSqoPN-aHQppI7rRQLf). 
 
-2. Topic 2
+Microsoft Teams is a top-notch platform for team collaboration. But we know it's not the only platform out there. Whatever platform you choose to use for your team, make sure it's a platform that allows you to work collaboratively and effectively. 
 
-[![video description](./images/screenshot.png)](https://youtube.com/link-here "video description")
+## Topic 2: Microsoft Planner
 
-> written content
+### What is Microsoft Planner?
 
-3. Topic 3
+### How do you get started with Microsoft Planner?
 
-[![video description](./images/screenshot.png)](https://youtube.com/link-here "video description")
 
-> written content
+## Topic 3: Azure DevOps
+
+### What is Azure DevOps?
+
+### How do you get started with Azure DevOps?
+
+
+## Topic 4: GitHub
+
+### What is GitHub?
+
+### How do you get started with GitHub?
 
 ## Summary
+As part of this lesson, you’ve learned the following: 
 
----
 
-## Resources
+## The Microsoft Garage, More Information
 
 
