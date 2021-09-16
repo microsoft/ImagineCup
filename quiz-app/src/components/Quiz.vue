@@ -5,6 +5,7 @@
         <h2>{{ q.title }}</h2>
         <hr />
         <h3 v-if="complete" class="message">{{ $t("complete") }}</h3>
+        <a class="final-link" href="https://www.aka.ms/ICVoucher" v-if="complete">https://www.aka.ms/ICVoucher</a>
         <div v-else>
           <h3 v-if="error" class="error">{{ $t("error") }}</h3>
           <h2>

@@ -72,6 +72,10 @@ h3,
 .message {
   text-align: center;
 }
+.final-link {
+  text-align: center;
+  font-weight: bold;
+}
 .error {
   color: red;
 }
@@ -81,6 +85,7 @@ h3,
   border-radius: 5px;
   margin: auto;
   padding: 1em;
+  text-align: center;
 }
 .btn {
   min-width: 50%;
