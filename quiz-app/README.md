@@ -1,6 +1,6 @@
 # Quizzes
 
-These quizzes are the pre- and post-lecture quizzes for the data sccience curriculum at https://aka.ms/datascience-beginners
+This repo contains a quiz for use by ImagineCup aspirants. The quiz app is an Azure Static Web App: https://zealous-pebble-06ae2440f.azurestaticapps.net/
 
 ## Project setup
 
