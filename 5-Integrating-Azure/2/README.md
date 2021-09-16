@@ -18,7 +18,7 @@ The incredible part about Azure is that this platform offers solutions for a var
 
 1. Introduction to the Azure Portal
 
-[![video description](./images/screenshot.png)](https://youtube.com/link-here "video description")
+[Video 1](https://microsoft.sharepoint.com/:v:/t/LearnwithDrG/EbjwBvSwHN1Bp7tZaBtvaygBs8CZHnruLAj_LdvYyk4VKw?e=NxDa0o)
 
 ### Azure Portal Resources
 - [Azure Portal](https://portal.azure.com)
@@ -26,7 +26,7 @@ The incredible part about Azure is that this platform offers solutions for a var
 
 2. Microsoft Resources for Azure
 
-[![video description](./images/screenshot.png)](https://youtube.com/link-here "video description")
+[Video 2](https://microsoft.sharepoint.com/:v:/t/LearnwithDrG/EVpE4MF8QhdJvFpciq7ZMX0BJolyv7zjGD1FSFBMltWyFg?e=tNeeWi)
 
 ### Resources for Azure
 - [Azure Product Page](https://azure.microsoft.com/)
@@ -43,7 +43,7 @@ The incredible part about Azure is that this platform offers solutions for a var
 
 3. Tips for a Practical Azure experience
 
-[![video description](./images/screenshot.png)](https://youtube.com/link-here "video description")
+[Video 3](https://microsoft.sharepoint.com/:v:/t/LearnwithDrG/EdmESL99BJNJmoO8j8YVajcBLt4WmOKsJx3ucYyhxd1t4g?e=ITgzdm)
 
 ### Resources for a practical Azure experience
 - [Azure Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-azureextensionpack#:~:text=%20Azure%20Extension%20Pack%20%201%20Functions%20%28Serverless,deploy%2C%20and%20debug%20your%20IoT%20Edge...%20More%20)
