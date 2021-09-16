@@ -2,7 +2,7 @@
 
 What we will cover: 
 - Topic 1: Microsoft Teams
-- Topic 2: Microsoft Planner
+- Topic 2: Microsoft To-Do
 - Topic 3: Azure DevOps
 - Topic 4: GitHub
 
@@ -29,11 +29,11 @@ For more information on getting started with Microsoft Teams, visit this [Micros
 
 Microsoft Teams is a top-notch platform for team collaboration. But we know it's not the only platform out there. Whatever platform you choose to use for your team, make sure it's a platform that allows you to work collaboratively and effectively. 
 
-## Topic 2: Microsoft Planner
+## Topic 2: Microsoft To-Do
 
-### What is Microsoft Planner?
+### What is Microsoft To-Do?
 
-### How do you get started with Microsoft Planner?
+### How do you get started with Microsoft To-Do?
 
 
 ## Topic 3: Azure DevOps
