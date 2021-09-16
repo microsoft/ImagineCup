@@ -1,4 +1,4 @@
-# Strategies for Choosing Teammates 
+# Strategies for Choosing Teammates That Are Right for You
 
 What we will cover: 
 - Topic 1: Your Team & Your 'Wave'
