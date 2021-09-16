@@ -9,7 +9,7 @@
         "title": "quiz 1",
         "quiz": [
           {
-            "questionText": "q1",
+            "questionText": "This is a test question",
             "answerOptions": [
               {
                 "answerText": "True",
@@ -39,20 +39,9 @@
             ]
           },
           {
-            "questionText": "q3",
+            "questionText": "Congratulations! You have passed! Here is the link: https://www.aka.ms/ICVoucher",
             "answerOptions": [
-              {
-                "answerText": "to automate the solving of multi-dimensional problems",
-                "isCorrect": "false"
-              },
-              {
-                "answerText": "to customize a shopping experience based on the type of customer",
-                "isCorrect": "false"
-              },
-              {
-                "answerText": "both of the above",
-                "isCorrect": "true"
-              }
+              
             ]
           }
         ]
