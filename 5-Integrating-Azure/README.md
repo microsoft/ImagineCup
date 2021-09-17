@@ -6,4 +6,4 @@ In these lessons, you will discover how to access the special offer for students
 
 1. [Azure For Students](https://github.com/microsoft/ImagineCup/tree/main/5-Integrating-Azure/1.%20Azure%20for%20Students) - Written by Ryan Mendenhall
 2. [Azure 101](https://github.com/microsoft/ImagineCup/tree/main/5-Integrating-Azure/2.%20Azure%20101) - Written by Sarah Guthals
-3. [Azure for Web and Mobile](3/README.md) - Written by Jen Looper
+3. [Azure for Web and Mobile](https://github.com/microsoft/ImagineCup/tree/main/5-Integrating-Azure/3.%20An%20Intro%20to%20Azure%20Web%20%26%20Mobile%20Apps) - Written by Jen Looper
