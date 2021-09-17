@@ -1,4 +1,4 @@
-# Collaboration Tools For Your Team
+# Module 2 Lesson 3: Collaboration Tools For Your Team
 
 What we will cover: 
 - Topic 1: Microsoft Teams
