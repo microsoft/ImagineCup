@@ -1,56 +1,60 @@
 [
   {
-    "title": "Imagine Cup Resources: Quizzes",
+    "title": "Imagine Cup Student Training Post-Quiz",
     "complete": "Congratulations! You have passed! Click the link below:",
     "error": "Sorry, try again",
     "quizzes": [
       {
         "id": 1,
-        "title": "quiz 1",
+        "title": "Imagine Cup Student Training Post-Quiz",
         "quiz": [
           {
-            "questionText": "This is a test true/false question",
+            "questionText": "As defined in this training, what is a 'wave?'",
             "answerOptions": [
               {
-                "answerText": "True",
+                "answerText": "A metaphor for an industry trend on the horizon",
                 "isCorrect": "true"
               },
               {
-                "answerText": "False",
+                "answerText": "An idea that has been attempted before",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "A prediction that a specific company's future revenues will quickly rise.",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "q2",
+            "questionText": "Which is an example of a cause of a 'wave'?",
             "answerOptions": [
               {
-                "answerText": "classical ML was invented first",
+                "answerText": "a company releasing their financials",
                 "isCorrect": "false"
               },
               {
-                "answerText": "the use of neural networks",
+                "answerText": "a market disruption",
                 "isCorrect": "true"
               },
               {
-                "answerText": "deep learning is used in robots",
+                "answerText": "consumer behavior staying the same over time",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "q3",
+            "questionText": "Which of the following tools could you use to meet with your team over video?",
             "answerOptions": [
               {
-                "answerText": "question 3-a",
-                "isCorrect": "false"
-              },
-              {
-                "answerText": "question 3-b",
+                "answerText": "Microsoft Teams",
                 "isCorrect": "true"
               },
               {
-                "answerText": "question 3-c",
+                "answerText": "GitHub",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Azure DevOps",
                 "isCorrect": "false"
               }
             ]
