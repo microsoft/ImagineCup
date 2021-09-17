@@ -24,7 +24,7 @@ What we will cover:
 
 1. Topic 1
 
-[![Generating Project Ideas: How to Identify Problems](![how to identify probs](https://user-images.githubusercontent.com/18564645/133836872-045070a5-da4b-4bf9-a6ca-992e23522a99.png))](https://youtu.be/L7Hyr-aU2hA "Generating Project Ideas: How to Identify Problems")
+[![Generating Project Ideas: How to Identify Problems](![how to identify probs](https://user-images.githubusercontent.com/18564645/133837767-37ba59f4-a1b9-4c8b-b77f-081f9cc452c2.png)](https://youtu.be/L7Hyr-aU2hA "Generating Project Ideas: How to Identify Problems")
 
 > So you’re going to put together a project- how exciting! Have you thought about what you want to build yet? Before you get started on building, designing, and coding your prize winning project- let's make sure we’re set up for success by answering a couple of questions!
 
