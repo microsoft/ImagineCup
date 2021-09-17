@@ -1,6 +1,6 @@
 # Azure for Students
 
-Before you start building your Imagine Cup project on Azure, you must first sign up for an Azure subscription. The easiest way do to this is with Azure for Students. Azure for Students gives you $100 in free Azure credit, plus access to select Free Azure Services. All you need to sign up is an academic email address. 
+Before you start building your Imagine Cup project on Azure, you must first sign up for an Azure subscription. The easiest way do to this is with Azure for Students. Azure for Students gives you $100 in free Azure credit, plus access to select Free Azure Services. All you need to sign up is an school-provided email address. 
 
 ![Overview](https://github.com/microsoft/ImagineCup/blob/main/5-Integrating-Azure/images/A4S_Overview.PNG)
 
@@ -12,7 +12,7 @@ Azure for Students gives you access to your Azure subscription for up to 1 year 
 ## Redeeming Azure for Students
 Redeeming Azure for Students is quick and easy. To redeem, simply go to https://aka.ms/azure4students and start the signup process.  Don't worry, unlike some cloud providers, you won't even need a credit card.  You can redeem this offer on a personal account, or your school account – it’s your choice. If you choose a personal account, you will need to enter a school-provided email address to confirm your identity as a student. If signing up with a school account, there’s no need for further verification. Once successfully verified, you will have a new Azure subscription created with $100 in Azure credit. It’s that simple.
 
-> 💡 Tip: Using your academic email address is the easiest way to redeem
+> 💡 Tip: Using your school email address is the easiest way to redeem
 
 ## Additional Benefits
 After redeeming your Azure for Students subscription, you will land in the ‘Education Hub’. This is a student-specific site we have built in the Azure portal to give you additional benefits as a student. Benefits such as free software downloads, Microsoft Learn modules and learning paths, and Azure Quickstart templates – which can get Azure services deployed in just a few clicks.
