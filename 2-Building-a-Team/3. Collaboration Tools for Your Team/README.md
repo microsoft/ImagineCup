@@ -56,3 +56,4 @@ As part of this lesson, you’ve learned the following:
 ## The Microsoft Garage, More Information
 
 
+[**Move on the to the next lesson here!**](https://github.com/microsoft/ImagineCup/tree/main/1-History-of-Imagine-Cup/1)
