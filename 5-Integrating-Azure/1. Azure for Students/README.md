@@ -2,6 +2,8 @@
 
 Before you start building your Imagine Cup project on Azure, you must first sign up for an Azure subscription. The easiest way do to this is with Azure for Students. Azure for Students gives you $100 in free Azure credit, plus access to select Free Azure Services. All you need to sign up is an academic email address. 
 
+![Overview](https://github.com/microsoft/ImagineCup/blob/main/5-Integrating-Azure/images/A4S_Overview.PNG)
+
 > ✅ Sign up for your [Azure for Students](https://aka.ms/Azure4students) subscription
 
 ## What is Azure for Students?
