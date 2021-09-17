@@ -21,15 +21,15 @@ What we will cover:
 
 ## Generating Project Ideas
 
-1. How to identify problems
+1. How to identify problems 🤔
 
-[![how to identify probs](https://user-images.githubusercontent.com/18564645/133838418-89989b4e-dd44-40ee-acc2-6cef96c6bb25.png)](https://youtu.be/L7Hyr-aU2hA "Generating Project Ideas: How to Identify Problems")
+[![how to identify problems](https://user-images.githubusercontent.com/18564645/133838418-89989b4e-dd44-40ee-acc2-6cef96c6bb25.png)](https://youtu.be/L7Hyr-aU2hA "Generating Project Ideas: How to Identify Problems")
 
 > So you’re going to put together a project- how exciting! Have you thought about what you want to build yet? Before you get started on building, designing, and coding your prize winning project- let's make sure we’re set up for success by answering a couple of questions!
 
-2. Topic 2
+2. Talking to potential customers 🗣
 
-[![video description](./images/screenshot.png)](https://youtube.com/link-here "video description")
+[![talking to potential customers](https://user-images.githubusercontent.com/18564645/133839992-cc83466a-84dc-4777-97de-57d7f795056d.png)](https://youtu.be/aoVKPX8mg5Y "Generating Project Ideas: Talking to potential customers")
 
 > written content
 
@@ -45,4 +45,7 @@ What we will cover:
 
 ## Resources
 
-[**Move on the to the next lesson here!**](../../1-History-of-Imagine-Cup/1)
+[**Move on the to the next lesson here!**](https://github.com/microsoft/ImagineCup/tree/main/1-History-of-Imagine-Cup/1)
+
+![talking to customers](https://user-images.githubusercontent.com/18564645/133839992-cc83466a-84dc-4777-97de-57d7f795056d.png)
+
