@@ -1,6 +1,7 @@
 ## Introduction
 
-![How to identify problems](https://user-images.githubusercontent.com/18564645/133835269-97918505-919f-4340-9661-f0ee705a819a.png)
+![generate proj ideas](https://user-images.githubusercontent.com/18564645/133836600-4e8a62f0-224e-45b2-bdd3-745b9579fdc6.png)
+
 
 You've put together your team- now it's time to decide on a project! Let's go over what you should consider while brainstorming a developing a project idea!
 
@@ -13,8 +14,6 @@ What we will cover:
 - The importance of user feedback
 - How to vet your project idea before developing an MVP + prototype
 
-Pre-Learning via Learn (link)
-
 [Introductory quiz](https://zealous-pebble-06ae2440f.azurestaticapps.net)
 
 > 💡 Tip:
@@ -25,7 +24,7 @@ Pre-Learning via Learn (link)
 
 1. Topic 1
 
-[![video description](./images/screenshot.png)](https://youtube.com/link-here "video description")
+[![Generating Project Ideas: How to Identify Problems](![how to identify probs](https://user-images.githubusercontent.com/18564645/133836872-045070a5-da4b-4bf9-a6ca-992e23522a99.png))](https://youtu.be/L7Hyr-aU2hA "Generating Project Ideas: How to Identify Problems")
 
 > So you’re going to put together a project- how exciting! Have you thought about what you want to build yet? Before you get started on building, designing, and coding your prize winning project- let's make sure we’re set up for success by answering a couple of questions!
 
