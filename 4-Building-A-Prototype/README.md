@@ -4,6 +4,6 @@ When buliding a product, you should start by building a prototype. Building a pr
 
 ## Section Topics
 
-1. [Building your first prototype](https://github.com/microsoft/ImagineCup/tree/main/4-Building-A-Prototype/1.%20Building%20your%20first%20prototype)
-2. [Getting prototype feedback](https://github.com/microsoft/ImagineCup/tree/main/4-Building-A-Prototype/2.%20Getting%20prototype%20feedback)
-3. [Iterating on your prototype](https://github.com/microsoft/ImagineCup/tree/main/4-Building-A-Prototype/3.%20Iterating%20on%20your%20prototype)
+1. [Building your first prototype](/4-Building-A-Prototype/1.%20Building%20your%20first%20prototype)
+2. [Getting prototype feedback](/4-Building-A-Prototype/2.%20Getting%20prototype%20feedback)
+3. [Iterating on your prototype](/4-Building-A-Prototype/3.%20Iterating%20on%20your%20prototype)

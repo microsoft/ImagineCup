@@ -1,27 +1,28 @@
 <template>
   <div class="card">
     <div v-for="q in questions" :key="q.id">
-        <h3 v-if="complete" class="message">{{ $t("complete") }}</h3>
-        <a class="final-link" href="https://www.aka.ms/ICVoucher" v-if="complete">https://www.aka.ms/ICVoucher</a>
-        <div v-else>
-          <h3 v-if="error" class="error">{{ $t("error") }}</h3>
-          <h2>
-            {{ q.quiz[currentQuestion].questionText }}
-          </h2>
-          <div>
-            <button
-              :key="index"
-              v-for="(option, index) in q.quiz[currentQuestion].answerOptions"
-              @click="handleAnswerClick(option.isCorrect)"
-              class="btn ans-btn"
-            >
-              {{ option.answerText }}
-            </button>
-          </div>
+      <h3 v-if="complete" class="message">{{ $t("complete") }}</h3>
+      <a class="final-link" href="https://www.aka.ms/ICVoucher" v-if="complete"
+        >https://www.aka.ms/ICVoucher</a
+      >
+      <div v-else>
+        <h3 v-if="error" class="error">{{ $t("error") }}</h3>
+        <h2>
+          {{ q.quiz[currentQuestion].questionText }}
+        </h2>
+        <div>
+          <button
+            :key="index"
+            v-for="(option, index) in q.quiz[currentQuestion].answerOptions"
+            @click="handleAnswerClick(option.isCorrect)"
+            class="btn ans-btn"
+          >
+            {{ option.answerText }}
+          </button>
         </div>
       </div>
     </div>
-  
+  </div>
 </template>
 
 <script>
@@ -51,7 +52,7 @@ export default {
       let nextQuestion = this.currentQuestion + 1;
       if (isCorrect == "true") {
         //always 3 questions per quiz
-        if (nextQuestion < 3) {
+        if (nextQuestion < 15) {
           this.currentQuestion = nextQuestion;
         } else {
           this.complete = true;
@@ -61,6 +62,5 @@ export default {
       }
     },
   },
-  
 };
 </script>

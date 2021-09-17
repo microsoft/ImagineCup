@@ -46,4 +46,4 @@ What we will cover:
 
 ## Resources
 
-[**Move on the to the next lesson here!**](https://github.com/microsoft/ImagineCup/tree/main/1-History-of-Imagine-Cup/1)
+[**Move on the to the next lesson here!**](../../1-History-of-Imagine-Cup/1)

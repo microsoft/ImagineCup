@@ -36,4 +36,4 @@ Microsoft Teams is a top-notch platform for team collaboration. But we know it's
 ## Summary
 As part of this lesson, you’ve learned the following: 
 
-[**Move on the to the next lesson here!**](https://github.com/microsoft/ImagineCup/tree/main/1-History-of-Imagine-Cup/1)
+[**Move on the to the next lesson here!**](../../1-History-of-Imagine-Cup/1)
