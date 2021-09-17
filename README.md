@@ -55,4 +55,4 @@ You can run this documentation offline by using [Docsify](https://docsify.js.org
 
 A PDF of all of the lessons can be found [here](pdf/readme.pdf)
 
-[**Get started with Lesson 1 here!**](https://github.com/microsoft/ImagineCup/tree/main/1-History-of-Imagine-Cup/1)
+<font size="15">[**Get started with Lesson 1 here!**](https://github.com/microsoft/ImagineCup/tree/main/1-History-of-Imagine-Cup/1)</font>
