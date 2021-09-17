@@ -2,9 +2,7 @@
 
 What we will cover: 
 - Topic 1: Microsoft Teams
-- Topic 2: Microsoft To-Do
-- Topic 3: Azure DevOps
-- Topic 4: GitHub
+- Topic 2: GitHub
 
 
 # Introduction
@@ -29,21 +27,7 @@ For more information on getting started with Microsoft Teams, visit this [Micros
 
 Microsoft Teams is a top-notch platform for team collaboration. But we know it's not the only platform out there. Whatever platform you choose to use for your team, make sure it's a platform that allows you to work collaboratively and effectively. 
 
-## Topic 2: Microsoft To-Do
-
-### What is Microsoft To-Do?
-
-### How do you get started with Microsoft To-Do?
-
-
-## Topic 3: Azure DevOps
-
-### What is Azure DevOps?
-
-### How do you get started with Azure DevOps?
-
-
-## Topic 4: GitHub
+## Topic 2: GitHub
 
 ### What is GitHub?
 
@@ -51,9 +35,5 @@ Microsoft Teams is a top-notch platform for team collaboration. But we know it's
 
 ## Summary
 As part of this lesson, you’ve learned the following: 
-
-
-## The Microsoft Garage, More Information
-
 
 [**Move on the to the next lesson here!**](https://github.com/microsoft/ImagineCup/tree/main/1-History-of-Imagine-Cup/1)
