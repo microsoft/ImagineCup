@@ -18,13 +18,10 @@ What we will cover:
 
 [Introductory quiz](https://zealous-pebble-06ae2440f.azurestaticapps.net)
 
-> 💡 Tip:
 
-> ✅ Callout: 
+## Generating Project Ideas
 
-## Content
-
-1. Topic 1
+1. How to identify problems
 
 [![how to identify probs](https://user-images.githubusercontent.com/18564645/133838418-89989b4e-dd44-40ee-acc2-6cef96c6bb25.png)](https://youtu.be/L7Hyr-aU2hA "Generating Project Ideas: How to Identify Problems")
 
