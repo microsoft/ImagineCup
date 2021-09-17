@@ -25,7 +25,7 @@ Module 1: Imagine Cup History
 ## Lessons
 
 | Lesson Number | Topic | Module | Author |
-| :-----------: | :----------------------------------------: | :--------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: | :----: |
+| :-----------: | :---: | :----: | :----: | 
 | 01 | Why Microsoft Started the Imagine Cup | [Imagine Cup History](1-Introduction/README.md) | Pablo Veramendi |
 | 02 | Past Winner Stories | [Imagine Cup History](1-Introduction/README.md) | Pablo Veramendi |
 | 02 | The 20th anniversary | [Imagine Cup History](1-Introduction/README.md) | Pablo Veramendi |
