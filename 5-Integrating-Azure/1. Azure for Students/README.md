@@ -1,45 +1,18 @@
-## Introduction
+# Azure for Students
 
-> Space for any graphic (optional)
+Before you start building your Imagine Cup project on Azure, you must first sign up for an Azure subscription. The easiest way do to this is with Azure for Students. Azure for Students gives you $100 in free Azure credit, plus access to select Free Azure Services. All you need to sign up is an academic email address. 
 
-What we will cover: 
+> ✅ Sign up for your [Azure for Students](https://aka.ms/Azure4students) subscription
 
-- first topic
-- second topic
-- third topic
+## What is Azure for Students?
+Azure for Students gives you access to your Azure subscription for up to 1 year and allows you to spend up to $100 on Azure services, such as Static Web Apps. How far does $100 take you in Azure? It does depend on which services you deploy, but it should allow you to build a fully functioning project with plenty to spare. The best part is you have access to the entire Azure platform to use the $100.
 
-Pre-Learning via Learn (link)
+## Redeeming Azure for Students
+Redeeming Azure for Students is quick and easy. To redeem, simply go to https://aka.ms/azure4students and start the signup process.  Don't worry, unlike some cloud providers, you won't even need a credit card.  You can redeem this offer on a personal account, or your school account – it’s your choice. If you choose a personal account, you will need to enter a school-provided email address to confirm your identity as a student. If signing up with a school account, there’s no need for further verification. Once successfully verified, you will have a new Azure subscription created with $100 in Azure credit. It’s that simple.
 
-[Introductory quiz](https://zealous-pebble-06ae2440f.azurestaticapps.net)
+> 💡 Tip: Using your academic email address is the easiest way to redeem
 
-> 💡 Tip:
+## Additional Benefits
+After redeeming your Azure for Students subscription, you will land in the ‘Education Hub’. This is a student-specific site we have built in the Azure portal to give you additional benefits as a student. Benefits such as free software downloads, Microsoft Learn modules and learning paths, and Azure Quickstart templates – which can get Azure services deployed in just a few clicks.
 
-> ✅ Callout: 
-
-## Content
-
-1. Topic 1
-
-[![video description](./images/screenshot.png)](https://youtube.com/link-here "video description")
-
-> written content
-
-2. Topic 2
-
-[![video description](./images/screenshot.png)](https://youtube.com/link-here "video description")
-
-> written content
-
-3. Topic 3
-
-[![video description](./images/screenshot.png)](https://youtube.com/link-here "video description")
-
-> written content
-
-## Summary
-
----
-
-## Resources
-
-
+Azure for Students is built specifically for you, to provide any and all tools needed to discover, learn and build your project.
