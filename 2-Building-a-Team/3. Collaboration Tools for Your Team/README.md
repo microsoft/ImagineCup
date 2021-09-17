@@ -30,8 +30,22 @@ Microsoft Teams is a top-notch platform for team collaboration. But we know it's
 ## Topic 2: GitHub
 
 ### What is GitHub?
+The folliwing definition of GitHub comes from [Kinsta.com](https://kinsta.com/knowledgebase/what-is-github/)
+
+At a high level, GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. To understand exactly what GitHub is, you need to know two connected principles: Version control, which helps developers track and manage changes to a software project’s code, and Git, which is a specific open-source version control system. 
+
+Learn more about GitHub in the following video from the GitHub YouTube. 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/w3jLJU7DT5E/0.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+
+GitHub has [many great features](https://github.com/features) - one we will point out as especially useful for teams is [GitHub Project Boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards). With GitHub Project Boards you can create Kanban boards that help you and your team track which work items you haven't done yet, are currently doing, or will do in the future. 
 
 ### How do you get started with GitHub?
+Get started with GitHub by signing up for an account at [Github.com](https://github.com/). After you have an account, you can use the [Get Started Guide](https://guides.github.com/activities/hello-world/) that the GitHub team has created to help you understand the platform. 
+
+For more information on getting started on GitHub, view the "Getting Started with GitHub" video below from the [GitHub Training & Guides](https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw) Youtube Channel. 
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/noZnOSpcjYY/0.jpg)](https://www.youtube.com/watch?v=noZnOSpcjYY)
 
 ## Summary
 As part of this lesson, you’ve learned the following: 
