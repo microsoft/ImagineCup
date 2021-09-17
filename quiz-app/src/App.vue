@@ -1,17 +1,17 @@
 <template>
   <div>
     <nav>
-      <router-link class="navlink" to="/">Home</router-link>
-      <label for="locale">locale</label>
+      <!--<label for="locale">locale</label>
       <select v-model="locale">
         <option>en</option>
-      </select>
+      </select>-->
+      <img src="@/assets/banner.png" alt="Imagine Cup Banner"/>
     </nav>
     <div id="app">
       <h1>{{ $t("title") }}</h1>
-      <router-view>
+      
         <Quiz />
-      </router-view>
+      
     </div>
   </div>
 </template>
@@ -31,30 +31,24 @@ export default {
       locale: "en",
     };
   },
-  watch: {
-    locale(val) {
-      this.$root.$i18n.locale = val;
-    },
-  },
-  created() {
-    if (this.$route.query.loc) {
-      this.locale = this.$route.query.loc;
-    }
-  },
+  
 };
 </script>
 
 <style>
+
+body {
+    margin: 0px;
+}
+
 html {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  color: #252d4a;
+  color: black;
 }
 nav {
-  background-color: #252d4a;
-  padding: 1em;
-  margin-bottom: 20px;
+  background-color: black;
 }
 
 nav a {
@@ -81,22 +75,22 @@ h3,
 }
 .card {
   width: 60%;
-  border: #252d4a solid;
+  border: black solid;
   border-radius: 5px;
   margin: auto;
   padding: 1em;
   text-align: center;
+  margin-bottom: 10px;
 }
 .btn {
   min-width: 50%;
-  font-size: 16px;
+  font-size: 20px;
   text-align: center;
   cursor: pointer;
   margin-bottom: 5px;
   width: 50%;
-  font-size: 16px;
   color: #ffffff;
-  background-color: #252d4a;
+  background-color: #5C2C92;
   border-radius: 5px;
   padding: 5px;
   justify-content: flex-start;

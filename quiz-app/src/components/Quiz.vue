@@ -1,9 +1,6 @@
 <template>
   <div class="card">
     <div v-for="q in questions" :key="q.id">
-      <div v-if="route == q.id">
-        <h2>{{ q.title }}</h2>
-        <hr />
         <h3 v-if="complete" class="message">{{ $t("complete") }}</h3>
         <a class="final-link" href="https://www.aka.ms/ICVoucher" v-if="complete">https://www.aka.ms/ICVoucher</a>
         <div v-else>
@@ -24,7 +21,7 @@
         </div>
       </div>
     </div>
-  </div>
+  
 </template>
 
 <script>
@@ -64,9 +61,6 @@ export default {
       }
     },
   },
-  created() {
-    this.route = this.$route.params.id;
-    this.locale = this.$route.query.loc;
-  },
+  
 };
 </script>
