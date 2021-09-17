@@ -1,7 +1,5 @@
 ## Building a Team
 
-> Space for any graphic (optional)
-
 In this module, you will learn some of the best practices for building and working with a team! Use the learnings from this module to build the team that's right for you and your project. 
 
 ## Section Topics
