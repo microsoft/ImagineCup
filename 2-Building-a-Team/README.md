@@ -1,3 +1,5 @@
+![Imagine Cup Logo](https://user-images.githubusercontent.com/87670464/133852022-2b87b533-af6a-4c87-9f14-b2cdfe55d6c3.png)
+
 ## Building a Team
 
 In this module, you will learn some of the best practices for building and working with a team! Use the learnings from this module to build the team that's right for you and your project. 
