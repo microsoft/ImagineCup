@@ -4,7 +4,7 @@ This training content is aimed at students who will participate in the [Imagine 
 
 Microsoft Team members have come together to develop this training, and they are excited to share it with you!
 
-**Thank You to Our Authors:** Chloe Condon, Pablo Veramendi, Jen Looper, Sarah Guthals, Ryan Mendenhall, and Chris Noring. 
+**Thank You to Our Authors:** Chloe Condon, Pablo Veramendi, Jen Looper, Sarah Guthals, Ryan Mendenhall, the Microsoft Garage Team, and Chris Noring. 
 
 ## Lessons
 
