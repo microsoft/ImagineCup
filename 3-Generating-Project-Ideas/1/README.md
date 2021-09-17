@@ -29,9 +29,9 @@ What we will cover:
 
 2. Talking to potential customers 🗣
 
-[![talking to potential customers](https://user-images.githubusercontent.com/18564645/133839992-cc83466a-84dc-4777-97de-57d7f795056d.png)](https://youtu.be/aoVKPX8mg5Y "Generating Project Ideas: Talking to potential customers")
+[![talking to potential customers](https://user-images.githubusercontent.com/18564645/133853181-1d78d575-82bc-40ea-93a1-2a4611c0d06b.png)](https://youtu.be/aoVKPX8mg5Y "Generating Project Ideas: Talking to potential customers")
 
-> written content
+> We covered how to identify problems, and what questions we need to ask ourselves when developing a solid project idea and pitch. Now that you’ve figured WHAT you want to Build and WHY it’s a problem you’d like to solve, it’s time to think about WHO this project helps. That’s right- it's time to talk to potential customers!
 
 3. Topic 3
 
@@ -47,5 +47,5 @@ What we will cover:
 
 [**Move on the to the next lesson here!**](https://github.com/microsoft/ImagineCup/tree/main/1-History-of-Imagine-Cup/1)
 
-![talking to customers](https://user-images.githubusercontent.com/18564645/133839992-cc83466a-84dc-4777-97de-57d7f795056d.png)
+
 
