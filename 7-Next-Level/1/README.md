@@ -8,9 +8,6 @@ What we will cover:
 - Choosing the right tools for your solution scenarios
 - Documentation, Documentation, Documentation
 
-Pre-Learning via Learn (link)
-
-[Introductory quiz](https://zealous-pebble-06ae2440f.azurestaticapps.net)
 
 ## Content
 
