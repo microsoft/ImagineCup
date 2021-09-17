@@ -2,25 +2,9 @@
 
 This training content is aimed at students who will participate in the [Imagine Cup Competition](https://imaginecup.microsoft.com/en-us/Events), or any other Hackathon-type competition. 
 
-Cloud Advocates at Microsoft have come together to develop this training, and they are excited to share it with you!
+Microsoft Team members have come together to develop this training, and they are excited to share it with you!
 
 **Thank You to Our Authors:** Chloe Condon, Pablo Veramendi, Jen Looper, Sarah Guthals, Ryan Mendenhall, and Chris Noring. 
-
-# Getting Started
-
-> **Students**, to use this curriculum on your own, fork the entire repo  complete the exercises on your own, starting with a pre-lecture quiz, then reading the lecture  completing the rest of the activities. Try to create the projects by comprehending the lessons rather than copying the solution code; however that code is available in the /solutions folders in each project-oriented lesson. Another idea would be to form a study group with friends  go through the content together. For further study, we recommend [Microsoft Learn](https://docs.microsoft.com/en-us/users/jenlooper-2911/collections/qprpajyoy3x0g7?WT.mc_id=academic-40229-cxa).
-
-<!--[![Promo video](screenshot.png)]( "Promo video")
-
-> 🎥 Click the image above for a video about the project  the folks who created it!-->
-
-> Find our [Code of Conduct](CODE_OF_CONDUCT.md), [Contributing](CONTRIBUTING.md),  [Translation](TRANSLATIONS.md) guidelines. We welcome your constructive feedback!
->
-
-Module 1: Imagine Cup History
-•	Unit 1: Why Microsoft Started the Imagine Cup (Pablo Veramendi)
-•	Unit 2: Past Winner Stories (Pablo Veramendi / Cristina Brendicke?) 
-•	Unit 3: The 20th anniversary (Pablo Veramendi)
 
 ## Lessons
 
@@ -46,6 +30,10 @@ Module 1: Imagine Cup History
 | 02 | Pitch Deck Tips  | [How to create a successful pitch](https://github.com/microsoft/ImagineCup/tree/main/6-Successful-Pitch) | Chloe Condon |
 | 02 | [Scaling your project](https://github.com/microsoft/ImagineCup/tree/main/7-Next-Level/1.%20Scaling%20Your%20Project) | [Taking your project to the next level](https://github.com/microsoft/ImagineCup/tree/main/7-Next-Level) | Sarah Guthals |
 | 02 | [Parting Advice](https://github.com/microsoft/ImagineCup/tree/main/7-Next-Level/2.%20Parting%20Words%20%26%20Advice) | [Taking your project to the next level](https://github.com/microsoft/ImagineCup/tree/main/7-Next-Level) | Pablo Veramendi |
+
+# Further Prep
+
+For further preperation for any hackathons or competitions, we recommend [Microsoft Learn](https://docs.microsoft.com/en-us).
 
 ## Offline access
 
