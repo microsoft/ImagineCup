@@ -31,7 +31,7 @@ Microsoft Team members have come together to develop this training, and they are
 | 02 | [Scaling your project](https://github.com/microsoft/ImagineCup/tree/main/7-Next-Level/1.%20Scaling%20Your%20Project) | [Taking your project to the next level](https://github.com/microsoft/ImagineCup/tree/main/7-Next-Level) | Sarah Guthals |
 | 02 | [Parting Advice](https://github.com/microsoft/ImagineCup/tree/main/7-Next-Level/2.%20Parting%20Words%20%26%20Advice) | [Taking your project to the next level](https://github.com/microsoft/ImagineCup/tree/main/7-Next-Level) | Pablo Veramendi |
 
-# Further Prep
+## Further Prep
 
 For further preperation for any hackathons or competitions, we recommend [Microsoft Learn](https://docs.microsoft.com/en-us).
 
