@@ -1,4 +1,6 @@
-## Introduction
+
+## Generating Project Ideas
+### Part 1:  How to identify problems 🤔
 
 ![generate proj ideas](https://user-images.githubusercontent.com/18564645/133836600-4e8a62f0-224e-45b2-bdd3-745b9579fdc6.png)
 
@@ -13,7 +15,7 @@ What we will cover in this video:
 
 ## Generating Project Ideas
 
-1. How to identify problems 🤔
+### 1. How to identify problems 🤔
 
 [![how to identify problems](https://user-images.githubusercontent.com/18564645/133838418-89989b4e-dd44-40ee-acc2-6cef96c6bb25.png)](https://youtu.be/L7Hyr-aU2hA "Generating Project Ideas: How to Identify Problems")
 
