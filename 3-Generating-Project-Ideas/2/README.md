@@ -24,7 +24,7 @@ What we will cover:
 
 Great job- you've chatted with potential customers, and have made efforts to better understand and empathize with your users. Next we'll refine out elevator pitch, and create a team vision statement.
 
-👉  [**Move on the to the next lesson here!**](https://github.com/microsoft/ImagineCup/tree/main/3-Generating-Project-Ideas/3)
+👉  [**Move on to the next lesson here!**](https://github.com/microsoft/ImagineCup/tree/main/3-Generating-Project-Ideas/3)
 
 ---
 
