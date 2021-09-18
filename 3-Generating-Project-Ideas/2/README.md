@@ -20,7 +20,13 @@ What we will cover:
 
 > We covered how to identify problems, and what questions we need to ask ourselves when developing a solid project idea and pitch. Now that you’ve figured WHAT you want to Build and WHY it’s a problem you’d like to solve, it’s time to think about WHO this project helps. That’s right- it's time to talk to potential customers!
 
+## Summary
 
-## Resources
+Great job- you've chatted with potential customers, and have made efforts to better understand and empathize with your users. Next we'll refine out elevator pitch, and create a team vision statement.
 
-[**Move on the to the next lesson here!**](https://github.com/microsoft/ImagineCup/tree/main/3-Generating-Project-Ideas/3)
+👉  [**Move on the to the next lesson here!**](https://github.com/microsoft/ImagineCup/tree/main/3-Generating-Project-Ideas/3)
+
+---
+
+## Additional Resources
+_Coming soon!_
