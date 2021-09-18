@@ -1,6 +1,6 @@
 
 ## Generating Project Ideas
-### Part 3: Vetting Your Project Ideas 💡
+### 3/3: Vetting Your Project Ideas 💡
 
 ![generate proj ideas](https://user-images.githubusercontent.com/18564645/133836600-4e8a62f0-224e-45b2-bdd3-745b9579fdc6.png)
 
@@ -13,7 +13,7 @@ What we will cover:
 
 ## Generating Project Ideas
 
-### 2. Vetting Your Project Ideas 💡
+### 3. Vetting Your Project Ideas 💡
 
 [![Generating Project Ideas: Vetting your project ideas](https://user-images.githubusercontent.com/18564645/133905715-570720be-14e9-416b-875b-5863f7c82bbf.png)](https://youtu.be/OjrfnrDsO98 "Generating Project Ideas: Vetting your project ideas")
 
