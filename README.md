@@ -1,6 +1,11 @@
-# Imagine Cup Training
+## Welcome to the Training Content for the Imagine Cup Competition!
 
-This training content is aimed at students who will participate in the [Imagine Cup Competition](https://imaginecup.microsoft.com/Events), or any other Hackathon-type competition.
+![1200x628_ImagineCup2022_FB_Banner_Black_20yrs_B](https://user-images.githubusercontent.com/87670464/133935325-0cdcdfa1-8277-4892-99a3-7d3e089a0b8e.png)
+
+Microsoft believes the next great thing could come from anyone, at any time. Now in its **20th** year with nearly 2 million past competitors worldwide, Imagine Cup is Microsoft’s global technology and innovation competition for students. With the goal of empowering every student on the planet to achieve more, young developers are invited to submit their original technology solutions utilizing Microsoft Azure for a chance to win cash, prizes, mentoring and more.
+
+Learn more about the Imagine Cup Competition [at the Imagine Cup Website](https://imaginecup.microsoft.com/en-us/Events)!
+This training content is aimed at students who will participate in the Imagine Cup Competition, or any other Hackathon-type competition.
 
 Microsoft Team members have come together to develop this training, and they are excited to share it with you!
 
