@@ -42,4 +42,4 @@ Pre-Learning via Learn (link)
 
 ## Resources
 
-[**Move on the to the next lesson here!**](../ImagineCup/1-History-of-Imagine-Cup/2. Past Winner Stories)
+[**Move on the to the next lesson here!**](../ImagineCup/1-Imagine-Cup-Introduction/2.-Past-Winner-Stories)
