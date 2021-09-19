@@ -15,7 +15,7 @@ Microsoft Team members have come together to develop this training, and they are
 
 | Lesson Number | Topic | Module | Author |
 | :-----------: | :---: | :----: | :----: | 
-| 01 | Imagine Cup History & The 20th Anniversary | [Imagine Cup History](1-History-of-Imagine-Cup/README.md) | Pablo Veramendi |
+| 01 | Imagine Cup Introduction | [Imagine Cup History](1-History-of-Imagine-Cup/README.md) | Pablo Veramendi |
 | 02 | Past Winner Stories | [Imagine Cup History](1-History-of-Imagine-Cup/README.md) | Pablo Veramendi |
 | 02 | [Strategies for Choosing Teammates](2-Building-a-Team/1.%20Strategies%20for%20choosing%20teammates%20that%20are%20right%20for%20you/README.md) | [Building a Great Team](2-Building-a-Team/README.md) | The Microsoft Garage Team|
 | 02 | [The importance of Diversity & Inclusion](2-Building-a-Team/2.%20The%20importance%20of%20Team%20Diversity%20%26%20Inclusion/README.md)  | [Building a Great Team](2-Building-a-Team/README.md) | Pablo Veramendi & Jalen McGee |
