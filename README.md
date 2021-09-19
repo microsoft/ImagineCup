@@ -15,25 +15,25 @@ Microsoft Team members have come together to develop this training, and they are
 
 | Lesson Number | Topic | Module | Author |
 | :-----------: | :---: | :----: | :----: | 
-| 01 | Imagine Cup Introduction | [Imagine Cup History](./1-Imagine-Cup-Introduction/1.Imagine-Cup-History/README.md) | Pablo Veramendi |
-| 02 | Past Winner Stories | [Imagine Cup History](./1-Imagine-Cup-Introduction/2.Past-Winner-Stories/README.md) | Pablo Veramendi |
-| 02 | [Strategies for Choosing Teammates](2-Building-a-Team/1.%20Strategies%20for%20choosing%20teammates%20that%20are%20right%20for%20you/README.md) | [Building a Great Team](2-Building-a-Team/README.md) | The Microsoft Garage Team|
-| 02 | [The importance of Diversity & Inclusion](2-Building-a-Team/2.%20The%20importance%20of%20Team%20Diversity%20%26%20Inclusion/README.md)  | [Building a Great Team](2-Building-a-Team/README.md) | Pablo Veramendi & Jalen McGee |
-| 02 | [Collaboration Tools For Your Team](2-Building-a-Team/3.%20Collaboration%20Tools%20for%20Your%20Team/README.md) | [Building a Great Team](2-Building-a-Team/README.md) | Jalen McGee |
-| 02 | [How to identify problems](https://github.com/microsoft/ImagineCup/blob/main/3-Generating-Project-Ideas/1/README.md) | [Generating project ideas](3-Generating-Project-Ideas/README.md) | [Chloe Condon](https://twitter.com/ChloeCondon) |
-| 02 | [Talking to potential customers](https://github.com/microsoft/ImagineCup/blob/main/3-Generating-Project-Ideas/2/README.md)  | [Generating project ideas](3-Generating-Project-Ideas/README.md) | [Chloe Condon](https://twitter.com/ChloeCondon) |
-| 02 | [Vetting your project ideas](https://github.com/microsoft/ImagineCup/tree/main/3-Generating-Project-Ideas/3) | [Generating project ideas](3-Generating-Project-Ideas/README.md) | [Chloe Condon](https://twitter.com/ChloeCondon) |
-| 02 | [Building your first prototype](4-Building-A-Prototype/1.%20Building%20your%20first%20prototype/README.md)  | [Building a Prototype / MVP](4-Building-A-Prototype/README.md) | Chris Noring |
-| 02 | [Getting prototype feedback](4-Building-A-Prototype/2.%20Getting%20prototype%20feedback/README.md) | [Building a Prototype / MVP](4-Building-A-Prototype/README.md) | Chris Noring |
-| 02 | [Iterating on your prototype](4-Building-A-Prototype/3.%20Iterating%20on%20your%20prototype/README.md) | [Building a Prototype / MVP](4-Building-A-Prototype/README.md) | Chris Noring |
-| 02 | [Azure for Students](5-Integrating-Azure/1.%20Azure%20for%20Students/README.md) | [Integrating Azure into your project](5-Integrating-Azure/README.md) | Ryan Mendenhall |
-| 02 | [Azure 101](5-Integrating-Azure/2.%20Azure%20101/README.md) | [Integrating Azure into your project](5-Integrating-Azure/README.md) | Sarah Guthals |
-| 02 | [An Introduction to Web & Mobile Apps](5-Integrating-Azure/3.%20An%20Intro%20to%20Azure%20Web%20%26%20Mobile%20Apps/README.md) | [Integrating Azure into your project](5-Integrating-Azure/README.md) | Jen Looper |
-| 02 | How to communicate your idea | [How to create a successful pitch](6-Successful-Pitch/README.md) | [Chloe Condon](https://twitter.com/ChloeCondon) |
-| 02 | Pitching as a team | [How to create a successful pitch](6-Successful-Pitch/README.md) | [Chloe Condon](https://twitter.com/ChloeCondon) |
-| 02 | Pitch Deck Tips  | [How to create a successful pitch](6-Successful-Pitch/README.md) | [Chloe Condon](https://twitter.com/ChloeCondon) |
-| 02 | [Scaling your project](7-Next-Level/1.%20Scaling%20Your%20Project/README.md) | [Taking your project to the next level](7-Next-Level/README.md) | Sarah Guthals |
-| 02 | [Parting Advice](7-Next-Level/2.%20Parting%20Words%20%26%20Advice/README.md) | [Taking your project to the next level](7-Next-Level/README.md) | Pablo Veramendi |
+| 01 | [Imagine Cup History](/1-Imagine-Cup-Introduction/1.Imagine-Cup-History/README.md) | [Imagine Cup Introduction]( /1-Imagine-Cup-Introduction) | Pablo Veramendi |
+| 02 | [Past Winner Stories]( /1-Imagine-Cup-Introduction/2.Past-Winner-Stories/README.md) | [Imagine Cup Introduction]( /1-Imagine-Cup-Introduction) | Pablo Veramendi |
+| 03 | [Strategies for Choosing Teammates](/2-Building-a-Team/1.Choosing-Your-Teammates/README.md) | [Building a Great Team](/2-Building-a-Team) | The Microsoft Garage Team|
+| 04 | [The importance of Diversity & Inclusion](/2-Building-a-Team/2.The-Importance-of-Diversity-&-Inclusion)  | [Building a Great Team]( /2-Building-a-Team) | Pablo Veramendi & Jalen McGee |
+| 05 | [Collaboration Tools For Your Team]( /2-Building-a-Team/3.Team-Collaboration-Tools/) | [Building a Great Team]( /2-Building-a-Team) | Jalen McGee |
+| 06 | [How to identify problems]( /3-Generating-Project-Ideas/1.How-to-Identify-Problems/README.md) | [Generating project ideas]( /3-Generating-Project-Ideas) | [Chloe Condon]( https://twitter.com/ChloeCondon) |
+| 07 | [Talking to potential customers]( 3-Generating-Project-Ideas/2.Talking-to-Potential-Customers/README.md)  | [Generating project ideas]( /3-Generating-Project-Ideas) | [Chloe Condon]( https://twitter.com/ChloeCondon) |
+| 08 | [Vetting your project ideas]( /3-Generating-Project-Ideas/3.Vetting-Your-Project-Ideas/README.md) | [Generating project ideas]( /3-Generating-Project-Ideas) | [Chloe Condon]( https://twitter.com/ChloeCondon) |
+| 09 | [Building your first prototype]( /4-Building-A-Prototype/1.Building-Your-First-Prototype/README.md) | [Building a Prototype / MVP]( /4-Building-A-Prototype/README.md) | Chris Noring |
+| 10 | [Getting prototype feedback]( /4-Building-A-Prototype/2.Getting-Prototype-Feedback/README.md) | [Building a Prototype / MVP]( /4-Building-A-Prototype/README.md) | Chris Noring |
+| 11 | [Iterating on your prototype]( /4-Building-A-Prototype/3.Iterating-On-Your-Prototype/README.md) | [Building a Prototype / MVP]( /4-Building-A-Prototype/README.md) | Chris Noring |
+| 12 | [Azure for Students]( /5-Integrating-Azure/1.Azure-For-Students/README.md) | [Integrating Azure into your project]( /5-Integrating-Azure/README.md) | Ryan Mendenhall |
+| 13 | [Azure 101]( /5-Integrating-Azure/2.Azure-101/README.md) | [Integrating Azure into your project]( /5-Integrating-Azure/README.md) | Sarah Guthals |
+| 14 | [An Introduction to Web & Mobile Apps]( /5-Integrating-Azure/3.An-Intro-to-Web-&-Mobile-Apps/README.md) | [Integrating Azure into your project]( /5-Integrating-Azure/README.md) | Jen Looper |
+| 15 | How to communicate your idea | [How to create a successful pitch]() | [Chloe Condon]() |
+| 16 | Pitching as a team | [How to create a successful pitch]() | [Chloe Condon]() |
+| 17 | Pitch Deck Tips  | [How to create a successful pitch]() | [Chloe Condon]() |
+| 18 | [Scaling your project]( /7-Next-Level/1.Scaling-Your-Project/README.md) | [Taking your project to the next level]( /7-Next-Level/README.md) | Sarah Guthals |
+| 19 | [Parting Advice]( /7-Next-Level/2.Parting-Words-&-Advice/README.md) | [Taking your project to the next level]( /7-Next-Level/README.md) | Pablo Veramendi |
 
 ## Further Prep
 
