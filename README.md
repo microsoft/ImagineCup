@@ -17,7 +17,7 @@ Microsoft Team members have come together to develop this training, and they are
 | :-----------: | :---: | :----: | :----: | 
 | 01 | [Imagine Cup History](/1-Imagine-Cup-Introduction/1.Imagine-Cup-History/README.md) | [Imagine Cup Introduction]( /1-Imagine-Cup-Introduction) | [Pablo Veramendi](https://twitter.com/IamPablo) |
 | 02 | [Past Winner Stories]( /1-Imagine-Cup-Introduction/2.Past-Winner-Stories/README.md) | [Imagine Cup Introduction]( /1-Imagine-Cup-Introduction) | [Pablo Veramendi](https://twitter.com/IamPablo) |
-| 03 | [Strategies for Choosing Teammates](/2-Building-a-Team/1.Choosing-Your-Teammates/README.md) | [Building a Great Team](/2-Building-a-Team) | The Microsoft Garage Team|
+| 03 | [Strategies for Choosing Teammates](/2-Building-a-Team/1.Choosing-Your-Teammates/README.md) | [Building a Great Team](/2-Building-a-Team) | [The Microsoft Garage Team](https://www.microsoft.com/en-us/garage/) |
 | 04 | [The importance of Diversity & Inclusion](/2-Building-a-Team/2.The-Importance-of-Diversity-&-Inclusion)  | [Building a Great Team]( /2-Building-a-Team) | [Pablo Veramendi](https://twitter.com/IamPablo) & [Jalen McGee](https://twitter.com/JalenMcG) |
 | 05 | [Collaboration Tools For Your Team]( /2-Building-a-Team/3.Team-Collaboration-Tools/) | [Building a Great Team]( /2-Building-a-Team) | Jalen McGee |
 | 06 | [How to identify problems]( /3-Generating-Project-Ideas/1.How-to-Identify-Problems/README.md) | [Generating project ideas]( /3-Generating-Project-Ideas) | [Chloe Condon]( https://twitter.com/ChloeCondon) |
