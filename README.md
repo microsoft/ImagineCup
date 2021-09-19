@@ -1,4 +1,4 @@
-## Welcome to the Training Content for the Imagine Cup Competition!
+## Welcome to the Training for the Imagine Cup Competition!
 
 ![1200x628_ImagineCup2022_FB_Banner_Black_20yrs_B](https://user-images.githubusercontent.com/87670464/133935325-0cdcdfa1-8277-4892-99a3-7d3e089a0b8e.png)
 
@@ -15,8 +15,8 @@ Microsoft Team members have come together to develop this training, and they are
 
 | Lesson Number | Topic | Module | Author |
 | :-----------: | :---: | :----: | :----: | 
-| 01 | Imagine Cup Introduction | [Imagine Cup History](1-History-of-Imagine-Cup/README.md) | Pablo Veramendi |
-| 02 | Past Winner Stories | [Imagine Cup History](1-History-of-Imagine-Cup/README.md) | Pablo Veramendi |
+| 01 | Imagine Cup Introduction | [Imagine Cup History](./1-Imagine-Cup-Introduction/1.Imagine-Cup-History/README.md) | Pablo Veramendi |
+| 02 | Past Winner Stories | [Imagine Cup History](./1-Imagine-Cup-Introduction/2.Past-Winner-Stories/README.md) | Pablo Veramendi |
 | 02 | [Strategies for Choosing Teammates](2-Building-a-Team/1.%20Strategies%20for%20choosing%20teammates%20that%20are%20right%20for%20you/README.md) | [Building a Great Team](2-Building-a-Team/README.md) | The Microsoft Garage Team|
 | 02 | [The importance of Diversity & Inclusion](2-Building-a-Team/2.%20The%20importance%20of%20Team%20Diversity%20%26%20Inclusion/README.md)  | [Building a Great Team](2-Building-a-Team/README.md) | Pablo Veramendi & Jalen McGee |
 | 02 | [Collaboration Tools For Your Team](2-Building-a-Team/3.%20Collaboration%20Tools%20for%20Your%20Team/README.md) | [Building a Great Team](2-Building-a-Team/README.md) | Jalen McGee |
