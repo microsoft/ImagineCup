@@ -16,7 +16,7 @@ What we will cover in this section:
 
 ## Section Topics
 
-1. [How to Identify Problems (Start here!)](./1.How-to-Identify-Problems/README.md)
+1. [How to Identify Problems **(Start here!)**](./1.How-to-Identify-Problems/README.md)
 2. [Talking to Potential Customers](./2.Talking-to-Potential-Customers/README.md)
 3. [Vetting Your Project Ideas](./3.Vetting-Your-Project-Ideas/README.md)
 
