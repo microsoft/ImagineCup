@@ -42,5 +42,5 @@ Pre-Learning via Learn (link)
 
 ## Resources
 
-[**Move on the to the next lesson here!**](../../2-Building-a-Team/1.Choosing-Your-Teammates/README.md)
+[**Move on the to the next section here!**](../../2-Building-a-Team/README.md)
 
