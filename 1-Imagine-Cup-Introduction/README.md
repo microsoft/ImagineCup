@@ -1,11 +1,10 @@
-## Title
+## Section 1: Imagine Cup Introduction
 
-> Space for any graphic (optional)
+![fe4116ab-845e-45f3-99d6-1f2d9845556a](https://user-images.githubusercontent.com/87670464/134025914-a6b6383d-05ff-4011-ab35-a97b726356a0.png)
 
-Explanation of this group of lessons
+The 2 lessons in this section will give you an introduction to the [Imagine Cup Competition](https://imaginecup.microsoft.com/). You will learn about the history of the Imagine Cup, and you will learn about some of the past winners of the competition. 
 
 ## Section Topics
 
-1. [Topic 1](1/README.md)
-2. [Topic 2](2/README.md)
-3. [Topic 3](3/README.md)
+1. [Imagine Cup History](./1.Imagine-Cup-History/README.md)
+2. [Past Winner Stories](./2.Past-Winner-Stories/README.md)
