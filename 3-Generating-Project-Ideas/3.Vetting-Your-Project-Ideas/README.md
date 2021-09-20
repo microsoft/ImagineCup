@@ -23,7 +23,7 @@ What we will cover:
 
 Way to go! 🥳�🎉🎊 You've completed this 3 part video series on Imagine Cup training content to help generate your project ideas. Now it's time to start working on your prototype.
 
-👉  [**Move on to the next section here!**](../../4-Building-A-Prototype/1.Building-Your-First-Prototype/README.md)
+👉  [**Move on to the next section here!**](../../4-Building-A-Prototype/README.md)
 
 ---
 
