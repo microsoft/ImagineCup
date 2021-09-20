@@ -6,7 +6,7 @@ In this section, you will learn some of the best practices for building and work
 
 ## Section Topics
 
-1. [Strategies for choosing teammates that are right for you](./1.Choosing-Your-Teammates/README.md)
+1. [Strategies for choosing teammates that are right for you (Start Here!)](./1.Choosing-Your-Teammates/README.md)
 2. [The importance of Team Diversity & Inclusion](./2.The-Importance-of-Diversity-&-Inclusion/README.md)
 3. [Collaboration Tools for Your Team](./3.Team-Collaboration-Tools/README.md)
 
