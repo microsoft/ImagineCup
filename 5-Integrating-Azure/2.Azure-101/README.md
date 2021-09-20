@@ -12,21 +12,19 @@ What we will cover:
 
 The incredible part about Azure is that this platform offers solutions for a variety of software projects for any size product; whether you're building a protoype in 24-hours as part of a hackathon or supporting a huge software company with millions of users, Azure has the tools to support you. With that, an introduction to Azure is often a difficult task, because it really starts with what *you* need and where to go from there. This module will introduce you to the Azure Portal, point you in the right direction for a number of Azure resources that are freely available, and introduce you to a couple of practical tips for getting started with Azure.
 
-[Introductory quiz](https://zealous-pebble-06ae2440f.azurestaticapps.net)
+## 1. Introduction to the Azure Portal
 
-## Content
-
-1. Introduction to the Azure Portal
-
-[Video 1](https://microsoft.sharepoint.com/:v:/t/LearnwithDrG/EbjwBvSwHN1Bp7tZaBtvaygBs8CZHnruLAj_LdvYyk4VKw?e=NxDa0o)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8xXUIbc9Gho/0.jpg)](https://www.youtube.com/watch?v=8xXUIbc9Gho)
+> 📹 Click the image above watch a video about "An Introduction to the Azure Portal"
 
 ### Azure Portal Resources
 - [Azure Portal](https://portal.azure.com)
 - [Azure Product Page](https://azure.microsoft.com/)
 
-2. Microsoft Resources for Azure
+## 2. Microsoft Resources for Azure
 
-[Video 2](https://microsoft.sharepoint.com/:v:/t/LearnwithDrG/EVpE4MF8QhdJvFpciq7ZMX0BJolyv7zjGD1FSFBMltWyFg?e=tNeeWi)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WhyAVVJHYBw/0.jpg)](https://www.youtube.com/watch?v=WhyAVVJHYBw)
+> 📹 Click the image above watch a video about "Microsoft Resources for Azure"
 
 ### Resources for Azure
 - [Azure Product Page](https://azure.microsoft.com/)
@@ -41,9 +39,10 @@ The incredible part about Azure is that this platform offers solutions for a var
   - [Azure Fridays playlist on YouTube](https://www.youtube.com/playlist?list=PLLasX02E8BPDT2Z2pdCHNCkENpcQWy5n6)
 - [Azure SDK on GitHub](https://github.com/azure/azure-sdk)
 
-3. Tips for a Practical Azure experience
+## 3. Tips for a Practical Azure experience
 
-[Video 3](https://microsoft.sharepoint.com/:v:/t/LearnwithDrG/EdmESL99BJNJmoO8j8YVajcBLt4WmOKsJx3ucYyhxd1t4g?e=ITgzdm)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/X85OXvVhOIk/0.jpg)](https://www.youtube.com/watch?v=X85OXvVhOIk)
+> 📹 Click the image above watch a video about "Tips for a Practical Azure Experience"
 
 ### Resources for a practical Azure experience
 - [Azure Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-azureextensionpack#:~:text=%20Azure%20Extension%20Pack%20%201%20Functions%20%28Serverless,deploy%2C%20and%20debug%20your%20IoT%20Edge...%20More%20)
