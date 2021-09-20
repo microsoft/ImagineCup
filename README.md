@@ -13,7 +13,7 @@ Microsoft Team members have come together to develop this training, and they are
 
 ## Lessons
 
-| Lesson Number | Topic | Module | Author |
+| Lesson Number | Topic | Section | Author |
 | :-----------: | :---: | :----: | :----: | 
 | 01 | [Imagine Cup History](/1-Imagine-Cup-Introduction/1.Imagine-Cup-History/README.md) | [Imagine Cup Introduction]( /1-Imagine-Cup-Introduction) | [Pablo Veramendi](https://twitter.com/IamPablo) |
 | 02 | [Past Winner Stories]( /1-Imagine-Cup-Introduction/2.Past-Winner-Stories/README.md) | [Imagine Cup Introduction]( /1-Imagine-Cup-Introduction) | [Pablo Veramendi](https://twitter.com/IamPablo) |
