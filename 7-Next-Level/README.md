@@ -4,8 +4,10 @@
 
 Explanation of this group of lessons
 
-## Section Topics
+## Lessons in this Section
 
 1. [Topic 1](1/README.md)
 2. [Topic 2](2/README.md)
-3. [Topic 3](3/README.md)
+
+## Credits
+These lessons were written with ❤️ by Sarah Guthals and Pablo Veramendi
