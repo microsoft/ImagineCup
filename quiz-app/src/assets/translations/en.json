@@ -26,18 +26,35 @@
             ]
           },
           {
-            "questionText": "Which is an example of a cause of a 'wave'?",
+            "questionText": "What anniversary is the Imagine Cup Competition celebrating during the 2021-2022 season?",
             "answerOptions": [
               {
-                "answerText": "a company releasing their financials",
+                "answerText": "The 50th anniversary",
                 "isCorrect": "false"
               },
               {
-                "answerText": "a market disruption",
+                "answerText": "The 20th anniversary",
                 "isCorrect": "true"
               },
               {
-                "answerText": "consumer behavior staying the same over time",
+                "answerText": "The 100th anniversary",
+                "isCorrect": "false"
+              }
+            ]
+          },
+          {
+            "questionText": "Which team won the Imagine Cup Competition during the 2020-2021 Season?",
+            "answerOptions": [
+              {
+                "answerText": "REWEBA - from Kenya",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Hollo - from Hong Kong",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": " Eyenaemia - from Australia",
                 "isCorrect": "false"
               }
             ]
@@ -60,206 +77,189 @@
             ]
           },
           {
-            "questionText": "Which of the following tools could you use to meet with your team over video?",
+            "questionText": "Research has shown the ____ teams are more likely to perform better.",
             "answerOptions": [
               {
-                "answerText": "Microsoft Teams",
-                "isCorrect": "true"
-              },
-              {
-                "answerText": "GitHub",
+                "answerText": "larger",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Azure DevOps",
+                "answerText": "older",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "diverse",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "Which of the following questions is best to answer before you get started on building, designing, or coding your project?",
+            "answerOptions": [
+              {
+                "answerText": "How many people should I hire when this becomes big?",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "What problem does it solve? Who does it help? Why is it important?",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Which investors do I want?",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Which of the following tools could you use to meet with your team over video?",
+            "questionText": "Chloe is creating an app that connects Teachers needing school supplies with folks in their local community that have excess supplies. Of the options below, who would you recommend Chloe talk to about their app? ",
             "answerOptions": [
               {
-                "answerText": "Microsoft Teams",
-                "isCorrect": "true"
-              },
-              {
-                "answerText": "GitHub",
+                "answerText": "Chloe's Best friend from college, who is now an architect",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Azure DevOps",
+                "answerText": "Chloe's favorite cousin, who is an engineer",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "A teacher in Chloe's community",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "_________ testing is when you test that larger parts of your prototype work together",
+            "answerOptions": [
+              {
+                "answerText": "Integration",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Unit",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Manual",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Which of the following tools could you use to meet with your team over video?",
+            "questionText": "Jen is looking to figure out if her app's architecture is reasonable. What type of review should Jen conduct?",
             "answerOptions": [
               {
-                "answerText": "Microsoft Teams",
-                "isCorrect": "true"
-              },
-              {
-                "answerText": "GitHub",
+                "answerText": "Customer Review",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Azure DevOps",
+                "answerText": "Technical Review",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "DevOps Review",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Which of the following tools could you use to meet with your team over video?",
+            "questionText": "What is Azure for Students?",
             "answerOptions": [
               {
-                "answerText": "Microsoft Teams",
+                "answerText": "A benefit that gives students access to their Azure subscription for up to 1 year and allows them to spend up to $100 on Azure services.",
                 "isCorrect": "true"
               },
               {
-                "answerText": "GitHub",
+                "answerText": "A teaching platform that allows teachers to test students on their knowledge of Azure.",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Azure DevOps",
+                "answerText": "A service that helps students prepare for technical interviews.",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Which of the following tools could you use to meet with your team over video?",
+            "questionText": "In the Azure Portal, what does the 'Azure Monitor' allow you to do?",
             "answerOptions": [
               {
-                "answerText": "Microsoft Teams",
-                "isCorrect": "true"
-              },
-              {
-                "answerText": "GitHub",
+                "answerText": "Track how many people are talking about your app on social media",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Azure DevOps",
+                "answerText": "Monitor your apps and infrastructure's resources costs.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "Gauge how popular your app is on the app store.",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Which of the following tools could you use to meet with your team over video?",
+            "questionText": "Which of the following is a 'a progressive web framework allowing developers to get up and running quickly'",
             "answerOptions": [
               {
-                "answerText": "Microsoft Teams",
-                "isCorrect": "true"
-              },
-              {
-                "answerText": "GitHub",
+                "answerText": "React.js",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Azure DevOps",
+                "answerText": "React Native",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Vue.js",
+                "isCorrect": "true"
+              }
+            ]
+          },
+          {
+            "questionText": "As defined in this training, what is a pitch?",
+            "answerOptions": [
+              {
+                "answerText": "A short presentation that describes your project, who it helps, and what problem is solves.",
+                "isCorrect": "true"
+              },
+              {
+                "answerText": "A commercial where companies try to get regular people to work at their company.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "When a company founder tells their employees that the company is being acquired.",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Which of the following tools could you use to meet with your team over video?",
+            "questionText": "What are 2 important details to understand when deciding to scale your project?",
             "answerOptions": [
               {
-                "answerText": "Microsoft Teams",
+                "answerText": "What should our startup office color be? Should our company allow pets?",
                 "isCorrect": "true"
               },
               {
-                "answerText": "GitHub",
+                "answerText": "When can we hire interns? What projects should we give interns?",
                 "isCorrect": "false"
               },
               {
-                "answerText": "Azure DevOps",
+                "answerText": "Who is going to benefit from it? How are they going to use it?",
                 "isCorrect": "false"
               }
             ]
           },
           {
-            "questionText": "Which of the following tools could you use to meet with your team over video?",
+            "questionText": "When scaling your project, ethics is a consideration that you and your team should make. Which of the following is an unethical practice when scaling?",
             "answerOptions": [
               {
-                "answerText": "Microsoft Teams",
+                "answerText": "Not updating customers on the outcome of company meetings.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Not letting customers know your company product roadmap.",
+                "isCorrect": "false"
+              },
+              {
+                "answerText": "Not disclosing to customers how their data is used.",
                 "isCorrect": "true"
-              },
-              {
-                "answerText": "GitHub",
-                "isCorrect": "false"
-              },
-              {
-                "answerText": "Azure DevOps",
-                "isCorrect": "false"
-              }
-            ]
-          },
-          {
-            "questionText": "Which of the following tools could you use to meet with your team over video?",
-            "answerOptions": [
-              {
-                "answerText": "Microsoft Teams",
-                "isCorrect": "true"
-              },
-              {
-                "answerText": "GitHub",
-                "isCorrect": "false"
-              },
-              {
-                "answerText": "Azure DevOps",
-                "isCorrect": "false"
-              }
-            ]
-          },
-          {
-            "questionText": "Which of the following tools could you use to meet with your team over video?",
-            "answerOptions": [
-              {
-                "answerText": "Microsoft Teams",
-                "isCorrect": "true"
-              },
-              {
-                "answerText": "GitHub",
-                "isCorrect": "false"
-              },
-              {
-                "answerText": "Azure DevOps",
-                "isCorrect": "false"
-              }
-            ]
-          },
-          {
-            "questionText": "Which of the following tools could you use to meet with your team over video?",
-            "answerOptions": [
-              {
-                "answerText": "Microsoft Teams",
-                "isCorrect": "true"
-              },
-              {
-                "answerText": "GitHub",
-                "isCorrect": "false"
-              },
-              {
-                "answerText": "Azure DevOps",
-                "isCorrect": "false"
-              }
-            ]
-          },
-          {
-            "questionText": "Which of the following tools could you use to meet with your team over video?",
-            "answerOptions": [
-              {
-                "answerText": "Microsoft Teams",
-                "isCorrect": "true"
-              },
-              {
-                "answerText": "GitHub",
-                "isCorrect": "false"
-              },
-              {
-                "answerText": "Azure DevOps",
-                "isCorrect": "false"
               }
             ]
           }
