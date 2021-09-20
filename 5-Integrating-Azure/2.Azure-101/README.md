@@ -51,3 +51,5 @@ The incredible part about Azure is that this platform offers solutions for a var
 - [Language Detection for Python QuickStart](https://docs.microsoft.com/azure/cognitive-services/text-analytics/quickstarts/client-libraries-rest-api?pivots=programming-language-python&tabs=version-3-2#language-detection)
 - [Text Analytics API Overview](https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview)
 - [Text Analytics API Documentation](https://westus2.dev.cognitive.microsoft.com/docs/services/TextAnalytics-v3-1/operations/Languages)
+
+[**Move on the to the next lesson here!**](../3.An-Intro-to-Web-&-Mobile-Apps/README.md)

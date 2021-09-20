@@ -50,4 +50,4 @@ For more information on getting started on GitHub, view the "Getting Started wit
 ## Summary
 As part of this lesson, you’ve learned the following: 
 
-[**Move on the to the next lesson here!**](../../1-History-of-Imagine-Cup/1)
+[**Move on the to the next lesson here!**](../../3-Generating-Project-Ideas/1.How-to-Identify-Problems/README.md)

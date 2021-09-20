@@ -42,5 +42,5 @@ Pre-Learning via Learn (link)
 
 ## Resources
 
-[**Move on the to the next lesson here!**](/1-History-of-Imagine-Cup/1)
+[**Move on the to the next lesson here!**](../../2-Building-a-Team/2.The-Importance-of-Diversity-&-Inclusion)
 

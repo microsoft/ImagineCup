@@ -18,3 +18,5 @@ Redeeming Azure for Students is quick and easy. To redeem, simply go to https://
 After redeeming your Azure for Students subscription, you will land in the ‘Education Hub’. This is a student-specific site we have built in the Azure portal to give you additional benefits as a student. Benefits such as free software downloads, Microsoft Learn modules and learning paths, and Azure Quickstart templates – which can get Azure services deployed in just a few clicks.
 
 Azure for Students is built specifically for you, to provide any and all tools needed to discover, learn and build your project.
+
+[**Move on the to the next lesson here!**](../2.Azure-101/README.md)
