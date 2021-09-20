@@ -2,9 +2,23 @@
   <div class="card">
     <div v-for="q in questions" :key="q.id">
       <h3 v-if="complete" class="message">{{ $t("complete") }}</h3>
-      <a class="final-link" href="https://www.aka.ms/ICVoucher" v-if="complete"
+      <ul>
+        <li><a class="final-link" href="https://www.aka.ms/ICVoucher" v-if="complete"
         >https://www.aka.ms/ICVoucher</a
-      >
+      ></li>
+      <li><a class="final-link" href="https://www.aka.ms/ICWebinarOct" v-if="complete"
+        >Live Webinar for October</a
+      ></li>
+      <li><a class="final-link" href="https://www.aka.ms/ICWebinarNov" v-if="complete"
+        >Live Webinar for November</a
+      ></li>
+      <li><a class="final-link" href="https://www.aka.ms/ICWebinarDec" v-if="complete"
+        >Live Webinar for December</a
+      ></li>
+      <li><a class="final-link" href="https://www.aka.ms/ICWebinarJan" v-if="complete"
+        >Live Webinar for January</a
+      ></li>
+
       <div v-else>
         <h3 v-if="error" class="error">{{ $t("error") }}</h3>
         <h2>
