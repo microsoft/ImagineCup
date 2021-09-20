@@ -96,6 +96,6 @@ The content in this lesson comes from the Garage Growth Framework. The Garage Gr
 
 The Garage also hires interns! Learn more about one Garage intern’s experience by reading about it on the [Garage blog](https://www.microsoft.com/en-us/garage/blog/2017/09/12-weeks-microsoft-garage/). 
 
-[**Move on the to the next lesson here!**](../../1-History-of-Imagine-Cup/1/README.md)
+[**Move on the to the next lesson here!**](../2.The-Importance-of-Diversity-&-Inclusion/README.md)
 
 
