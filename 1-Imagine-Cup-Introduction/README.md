@@ -4,7 +4,10 @@
 
 The 2 lessons in this section will give you an introduction to the [Imagine Cup Competition](https://imaginecup.microsoft.com/). You will learn about the history of the Imagine Cup, and you will learn about some of the past winners of the competition. 
 
-## Section Topics
+## Lessons in This Section
 
 1. [Imagine Cup History](./1.Imagine-Cup-History/README.md)
 2. [Past Winner Stories](./2.Past-Winner-Stories/README.md)
+
+## Credits
+These lessons were written with ❤️ by Pablo Veramendi
