@@ -11,7 +11,9 @@ What we will cover:
 
 ## Content
 
-[Unit 7 Part 1 Video](https://microsoft.sharepoint.com/:v:/t/LearnwithDrG/EUDuN-P05xVArUQ-sccsDdQB57OQ8MW1w3aoiczfgxGBeQ?e=lBgbPy)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wQxRf9sHIuo/0.jpg)](https://www.youtube.com/watch?v=wQxRf9sHIuo)
+> 📹 Click the image above watch a video about "Scaling Your Project"
+
 
 ## 1. The importance of understanding your users
 
