@@ -8,10 +8,6 @@ What we will cover:
 - Choosing the right tools for your solution scenarios
 - Documentation, Documentation, Documentation
 
-Pre-Learning via Learn (link)
-
-[Introductory quiz](https://zealous-pebble-06ae2440f.azurestaticapps.net)
-
 ## Content
 
 [Unit 7 Part 1 Video](https://microsoft.sharepoint.com/:v:/t/LearnwithDrG/EUDuN-P05xVArUQ-sccsDdQB57OQ8MW1w3aoiczfgxGBeQ?e=lBgbPy)
@@ -62,3 +58,5 @@ Documentation is a huge part of any software project, but especially important a
   - Code Comments
   - Contributors Guides
   - Licensing 
+
+[**Move on the to the next lesson here!**](../2.Parting-Words-&-Advice/README.md)
