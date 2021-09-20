@@ -1,4 +1,5 @@
-## Introduction
+## Section 7: Taking Your Project to the Next Level
+### Lesson 2/2: Parting Words & Quiz
 
 
 ## [Post-Training Quiz](https://zealous-pebble-06ae2440f.azurestaticapps.net/quiz/1)

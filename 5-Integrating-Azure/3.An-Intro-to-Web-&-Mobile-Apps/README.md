@@ -1,3 +1,6 @@
+## Section 5: Integrating Azure Into Your Project
+### Lesson 3/3: An Intro to Web & Mobile Apps
+
 ## Build and Deploy your Prototype to the Cloud
 
 In this lesson, you will learn how to take a prototype and deploy it to the cloud. Assuming you have built your application for either a web or mobile platform, you need to find a way to showcase it live for users to try as a true prototype. In this lesson, you can view a series of videos on how to build a Power App for mobile, and how to build and deploy a web app using Azure Static Web Apps.

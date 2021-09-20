@@ -1,4 +1,5 @@
-# Section 2 Lesson 2: The Importance of Team Diversity & Inclusion
+## Section 2: Building a Team
+### Lesson 2/3:  The Importance of Diversity & Inclusion
 
 What we will cover: 
 - Topic 1: Your Team & Your 'Wave'

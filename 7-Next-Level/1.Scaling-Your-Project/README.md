@@ -1,4 +1,5 @@
-## Introduction
+## Section 7: Taking Your Project to the Next Level
+### Lesson 1/2: Scaling Your Project
 
 Taking your hackathon projects to the next level is a great way to learn, have fun, and maybe even launch a new solution to a problem you're passionate about! In this module, you will begin to learn about some of the key aspects of product building that will set you up for success.
 

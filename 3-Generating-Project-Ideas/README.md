@@ -1,5 +1,4 @@
-
-## Generating Project Ideas
+## Section 3: Generating Project Ideas
 
 ![generate proj ideas](https://user-images.githubusercontent.com/18564645/133836600-4e8a62f0-224e-45b2-bdd3-745b9579fdc6.png)
 

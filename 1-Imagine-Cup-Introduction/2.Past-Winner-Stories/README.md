@@ -1,4 +1,5 @@
-## Introduction
+## Section 1: Imagine Cup introduction
+### Lesson 2/2:  Past Winner Stories
 
 > Space for any graphic (optional)
 

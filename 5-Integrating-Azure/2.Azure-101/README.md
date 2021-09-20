@@ -1,6 +1,6 @@
-## Introduction
+## Section 5: Integrating Azure Into Your Project
+### Lesson 2/3: Azure 101
 
-> Space for any graphic (optional)
 
 What we will cover: 
 

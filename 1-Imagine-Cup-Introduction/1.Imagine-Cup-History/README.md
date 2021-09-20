@@ -1,5 +1,5 @@
-## Section 1 Lesson 1: Imagine Cup History
-
+## Section 1: Imagine Cup introduction
+### Lesson 1/2:  Imagine Cup History
 > Space for any graphic (optional)
 
 What we will cover: 

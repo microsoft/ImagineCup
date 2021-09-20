@@ -1,4 +1,3 @@
-
 ## Section 3: Generating Project Ideas
 ### Lesson 1/3:  How to identify problems 🤔
 

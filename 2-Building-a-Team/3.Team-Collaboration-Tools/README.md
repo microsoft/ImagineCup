@@ -1,4 +1,5 @@
-# Section 2 Lesson 3: Collaboration Tools For Your Team
+## Section 2: Building a Team
+### Lesson 3/3: Collaboration Tools For Your Team
 
 What we will cover: 
 - Topic 1: Microsoft Teams

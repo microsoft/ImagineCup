@@ -1,4 +1,4 @@
-## Building a Prototype
+## Section 4: Building a Prototype
 
 When buliding a product, you should start by building a prototype. Building a prototype allows you to get your basic idea in front of your potential users, and helps you save time and effort when figuring out the right things to build. 
 

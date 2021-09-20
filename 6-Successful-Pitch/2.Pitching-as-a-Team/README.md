@@ -1,4 +1,5 @@
-## Introduction
+## Section 6: Creating a Successful Pitch
+### Lesson 2/3: Pitching as a Team
 
 > Space for any graphic (optional)
 

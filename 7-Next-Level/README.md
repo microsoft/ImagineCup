@@ -1,4 +1,4 @@
-## Title
+## Section 7: Taking Your Project to the Next Level
 
 > Space for any graphic (optional)
 

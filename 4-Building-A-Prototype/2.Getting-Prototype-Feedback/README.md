@@ -1,4 +1,5 @@
-# Getting prototype feedback
+## Section 4: Building a Prototype
+### Lesson 2/3: Getting prototype feedback
 
 You've built a prototype, it works reasonably well, now what?
 

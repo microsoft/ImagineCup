@@ -1,4 +1,5 @@
-# Iterating on your prototype
+## Section 4: Building a Prototype
+### Lesson 3/3: Iterating on your prototype
 
 A prototype shouldn't be a finished looking product with all the "bells and whistles". It's a prototype, also referred to sometime as a "walking skeleton". Your application should only focus on being able to deliver the core functionality and do it well. 
 

@@ -1,4 +1,5 @@
-# Module 2 Lesson 1: Choosing Teammates That Are Right for You
+## Section 2: Building a Team
+### Lesson 1/3:  Choosing Your Teammates
 
 What we will cover: 
 - Topic 1: Your Team & Your 'Wave'

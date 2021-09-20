@@ -1,4 +1,4 @@
-## Integrating Azure into your project
+## Section 5: Integrating Azure into your project
 
 In these lessons, you will discover how to access the special offer for students, Azure For Students. You will also learn some of the many ways that you can use your subscription to leverage Azure within your prototypes. Finally, you will learn how to use Azure Static Web Apps to deploy your prototype easily and cost-effectively to the cloud.
 

@@ -1,4 +1,4 @@
-## Title
+## Section 6: Creating a Successful Pitch
 
 > Space for any graphic (optional)
 

@@ -1,4 +1,5 @@
-## Introduction
+## Section 6: Creating a Successful Pitch
+### Lesson 3/3: Pitch Deck Tips
 
 > Space for any graphic (optional)
 

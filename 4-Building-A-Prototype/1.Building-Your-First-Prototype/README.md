@@ -1,4 +1,5 @@
-# Building your first prototype
+## Section 4: Building a Prototype
+### Lesson 1/3: Building Your First Prototype
 
 Ok so you want to build a prototype, there are things to consider. Some considerations can be made after a while and some are habits you want to adopt as early as possible.
 

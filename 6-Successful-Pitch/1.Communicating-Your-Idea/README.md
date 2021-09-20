@@ -1,4 +1,5 @@
-## Introduction
+## Section 6: Creating a Successful Pitch
+### Lesson 1/3: How to Communicate Your Idea
 
 > Space for any graphic (optional)
 
