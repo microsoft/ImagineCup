@@ -1,24 +1,26 @@
 <template>
   <div class="card">
     <div v-for="q in questions" :key="q.id">
-      <h3 v-if="complete" class="message">{{ $t("complete") }}</h3>
+      <div v-if="complete">
+      <h3 class="message">{{ $t("complete") }}</h3>
       <ul>
-        <li><a class="final-link" href="https://www.aka.ms/ICVoucher" v-if="complete"
+        <li><a class="final-link" href="https://www.aka.ms/ICVoucher" 
         >https://www.aka.ms/ICVoucher</a
       ></li>
-      <li><a class="final-link" href="https://www.aka.ms/ICWebinarOct" v-if="complete"
+      <li><a class="final-link" href="https://www.aka.ms/ICWebinarOct" 
         >Live Webinar for October</a
       ></li>
-      <li><a class="final-link" href="https://www.aka.ms/ICWebinarNov" v-if="complete"
+      <li><a class="final-link" href="https://www.aka.ms/ICWebinarNov" 
         >Live Webinar for November</a
       ></li>
-      <li><a class="final-link" href="https://www.aka.ms/ICWebinarDec" v-if="complete"
+      <li><a class="final-link" href="https://www.aka.ms/ICWebinarDec"
         >Live Webinar for December</a
       ></li>
-      <li><a class="final-link" href="https://www.aka.ms/ICWebinarJan" v-if="complete"
+      <li><a class="final-link" href="https://www.aka.ms/ICWebinarJan" 
         >Live Webinar for January</a
       ></li>
-
+      </ul>
+      </div>
       <div v-else>
         <h3 v-if="error" class="error">{{ $t("error") }}</h3>
         <h2>
