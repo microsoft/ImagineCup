@@ -1,4 +1,4 @@
-## Introduction
+## Section 1 Lesson 1: Imagine Cup History
 
 > Space for any graphic (optional)
 
