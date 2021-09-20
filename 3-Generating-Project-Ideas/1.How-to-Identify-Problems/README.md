@@ -25,7 +25,7 @@ What we will cover in this video:
 
 Great job- you've developed an elevator pitch with your team. Next up: let's talk to customers!
 
-👉  [**Move on to the next lesson here!**](https://github.com/microsoft/ImagineCup/tree/main/3-Generating-Project-Ideas/2)
+👉  [**Move on to the next lesson here!**](../2.Talking-to-Potential-Customers/README.md)
 
 ---
 
