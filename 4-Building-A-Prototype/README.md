@@ -8,7 +8,7 @@ When buliding a product, you should start by building a prototype. Building a pr
 
 ## Lessons in this Section
 
-1. [Building your first prototype](./1.Building-Your-First-Prototype/README.md)
+1. [Building your first prototype **(Start Here!)**](./1.Building-Your-First-Prototype/README.md)
 2. [Getting prototype feedback](./2.Getting-Prototype-Feedback/README.md)
 3. [Iterating on your prototype](./3.Iterating-On-Your-Prototype/README.md)
 
