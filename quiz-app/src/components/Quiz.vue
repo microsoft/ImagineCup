@@ -4,9 +4,6 @@
       <div v-if="complete">
       <h3 class="message">{{ $t("complete") }}</h3>
       <ul>
-        <li><a class="final-link" href="https://www.aka.ms/ICVoucher" 
-        >https://www.aka.ms/ICVoucher</a
-      ></li>
       <li><a class="final-link" href="https://www.aka.ms/ICWebinarOct" 
         >Live Webinar for October</a
       ></li>
