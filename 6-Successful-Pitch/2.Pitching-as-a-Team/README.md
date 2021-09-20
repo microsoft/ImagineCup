@@ -43,4 +43,4 @@ Pre-Learning via Learn (link)
 ## Resources
 
 
-**Move on the to the next lesson here!** *Needs Updating
+[**Move on the to the next lesson here!**](../../6-Successful-Pitch/3.Pitch-Deck-Tips/README.md) 
