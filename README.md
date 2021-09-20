@@ -29,9 +29,9 @@ Microsoft Team members have come together to develop this training, and they are
 | 12 | [Azure for Students]( /5-Integrating-Azure/1.Azure-For-Students/README.md) | [Integrating Azure into your project]( /5-Integrating-Azure/README.md) | Ryan Mendenhall |
 | 13 | [Azure 101]( /5-Integrating-Azure/2.Azure-101/README.md) | [Integrating Azure into your project]( /5-Integrating-Azure/README.md) | [Sarah Guthals](https://twitter.com/drguthals) |
 | 14 | [An Introduction to Web & Mobile Apps]( /5-Integrating-Azure/3.An-Intro-to-Web-&-Mobile-Apps/README.md) | [Integrating Azure into your project]( /5-Integrating-Azure/README.md) | [Jen Looper](https://twitter.com/jenlooper) |
-| 15 | How to communicate your idea | [How to create a successful pitch]() | [Chloe Condon]() |
-| 16 | Pitching as a team | [How to create a successful pitch]() | [Chloe Condon]() |
-| 17 | Pitch Deck Tips  | [How to create a successful pitch]() | [Chloe Condon]() |
+| 15 | How to communicate your idea | [How to create a successful pitch]( /6-Successful-Pitch/README.md) | [Chloe Condon](https://twitter.com/ChloeCondon) |
+| 16 | Pitching as a team | [How to create a successful pitch]( /6-Successful-Pitch/README.md) | [Chloe Condon](https://twitter.com/ChloeCondon) |
+| 17 | Pitch Deck Tips  | [How to create a successful pitch]( /6-Successful-Pitch/README.md) | [Chloe Condon](https://twitter.com/ChloeCondon) |
 | 18 | [Scaling your project]( /7-Next-Level/1.Scaling-Your-Project/README.md) | [Taking your project to the next level]( /7-Next-Level/README.md) | [Sarah Guthals](https://twitter.com/drguthals) |
 | 19 | [Parting Advice]( /7-Next-Level/2.Parting-Words-&-Advice/README.md) | [Taking your project to the next level]( /7-Next-Level/README.md) | [Pablo Veramendi](https://twitter.com/IamPablo) |
 
