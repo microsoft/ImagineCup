@@ -96,4 +96,4 @@ Once you are ready to deploy your app, you can do it right from within Visual St
 
 In this lesson, you learned about several ways to build a web and mobile app to bring your prototype to the cloud and to your user. While there are many ways to create these kind of apps, these tools will help you speed up your process from prototype to production.
 
-
+**Move on the to the next lesson here!** *Needs Updating
