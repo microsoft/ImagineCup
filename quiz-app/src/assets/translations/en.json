@@ -234,7 +234,7 @@
             "answerOptions": [
               {
                 "answerText": "What should our startup office color be? Should our company allow pets?",
-                "isCorrect": "true"
+                "isCorrect": "false"
               },
               {
                 "answerText": "When can we hire interns? What projects should we give interns?",
@@ -242,7 +242,7 @@
               },
               {
                 "answerText": "Who is going to benefit from it? How are they going to use it?",
-                "isCorrect": "false"
+                "isCorrect": "true"
               }
             ]
           },
