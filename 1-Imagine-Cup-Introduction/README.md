@@ -6,8 +6,8 @@ The 2 lessons in this section will give you an introduction to the [Imagine Cup 
 
 ## Lessons in This Section
 
-1. [A Recap of Past Years **(Start here!)**](./1.A-Recap-of-Past-Years/README.md)
-2. [More Past Winner Stories](./2.More-Past-Winner-Stories/README.md)
+1. [A Recap of Past Years **(Start here!)**](./1.Welcome/README.md)
+2. [More Past Winner Stories](./2.Past-Winner-Stories/README.md)
 
 ## Credits
 These lessons were written with ❤️ by Pablo Veramendi
