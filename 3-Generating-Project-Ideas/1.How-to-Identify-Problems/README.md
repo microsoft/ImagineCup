@@ -26,7 +26,3 @@ Great job- you've developed an elevator pitch with your team. Next up: let's tal
 
 👉  [**Move on to the next lesson here!**](../2.Talking-to-Potential-Customers/README.md)
 
----
-
-## Additional Resources
-_Coming soon!_
