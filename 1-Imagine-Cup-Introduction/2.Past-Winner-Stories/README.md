@@ -1,5 +1,5 @@
 ## Section 1: Imagine Cup introduction
-### Lesson 2/2: More Past Winner Stories
+### Lesson 2/2: Past Winner Stories
 
 ## Past Winner Story 1: Team Hollo, Hong Kong - 2020 Imagine Cup World Champion 
 
