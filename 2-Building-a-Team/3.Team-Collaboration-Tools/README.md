@@ -50,5 +50,7 @@ For more information on getting started on GitHub, view the "Getting Started wit
 
 ## Summary
 As part of this lesson, you’ve learned the following: 
+- Microsoft Teams is a team communication platform that your team can use to video chat, and converse. 
+- GitHub is a website and cloud-based service that helps developers store and manage their code, as well as track and control changes to their code. Teams can also use it to organize their projects and their work. 
 
 👉  [**Move on the to the next section here!**](../../3-Generating-Project-Ideas/README.md)
