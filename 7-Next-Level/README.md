@@ -9,7 +9,7 @@ After lesson 2, you will have the chance to take a quiz that reflects on your le
 
 ## Lessons in this Section
 
-1. [Scaling Your Project](./1.Scaling-Your-Project/README.md)
+1. [Scaling Your Project **(Start Here!)**](./1.Scaling-Your-Project/README.md)
 2. [Parting Words & Advice](./2.Parting-Words-&-Advice/README.md)
 
 ## Credits
