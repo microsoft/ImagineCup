@@ -18,4 +18,4 @@ Over the past 20 years we’ve seen some incredible projects utilizing the cutti
 
 Global Imagine Cup Director
 
-👉  [**Move on the to the next lesson here!**](../2.More-Past-Winner-Stories/README.md)
+👉  [**Move on the to the next lesson here!**](../2.Past-Winner-Stories/README.md)
