@@ -6,9 +6,7 @@ In these lessons, you will discover how to access the special offer for students
 
 ## Lessons in this Section
 
-1. [Azure For Students **(Start Here!)**](./1.Azure-For-Students/README.md) - Written by Ryan Mendenhall
-2. [Azure 101](./1.Azure-101/README.md) - Written by Sarah Guthals
-3. [Azure for Web and Mobile](./3.An-Intro-to-Web-&-Mobile-Apps/README.md) - Written by Jen Looper
+1. [Azure For Students **(Start Here!)**](./1.Azure-For-Students/README.md) - Written with ❤️ by Ryan Mendenhall
+2. [Azure 101](./1.Azure-101/README.md) - Written with ❤️ by Sarah Guthals
+3. [Azure for Web and Mobile](./3.An-Intro-to-Web-&-Mobile-Apps/README.md) - Written with ❤️ by Jen Looper
 
-## Credits
-These lessons were written with ❤️ by Ryan Mendenhall, Sarah Guthals, and Jen Looper
