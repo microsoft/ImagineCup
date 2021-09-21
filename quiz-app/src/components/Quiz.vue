@@ -2,21 +2,29 @@
   <div class="card">
     <div v-for="q in questions" :key="q.id">
       <div v-if="complete">
-      <h3 class="message">{{ $t("complete") }}</h3>
-      <ul>
-      <li><a class="final-link" href="https://www.aka.ms/ICWebinarOct" 
-        >Live Webinar for October</a
-      ></li>
-      <li><a class="final-link" href="https://www.aka.ms/ICWebinarNov" 
-        >Live Webinar for November</a
-      ></li>
-      <li><a class="final-link" href="https://www.aka.ms/ICWebinarDec"
-        >Live Webinar for December</a
-      ></li>
-      <li><a class="final-link" href="https://www.aka.ms/ICWebinarJan" 
-        >Live Webinar for January</a
-      ></li>
-      </ul>
+        <h3 class="message">{{ $t("complete") }}</h3>
+        <ul>
+          <li>
+            <a class="final-link" href="https://www.aka.ms/ICWebinarOct"
+              >Live Webinar for October</a
+            >
+          </li>
+          <li>
+            <a class="final-link" href="https://www.aka.ms/ICWebinarNov"
+              >Live Webinar for November</a
+            >
+          </li>
+          <li>
+            <a class="final-link" href="https://www.aka.ms/ICWebinarDec"
+              >Live Webinar for December</a
+            >
+          </li>
+          <li>
+            <a class="final-link" href="https://www.aka.ms/ICWebinarJan"
+              >Live Webinar for January</a
+            >
+          </li>
+        </ul>
       </div>
       <div v-else>
         <h3 v-if="error" class="error">{{ $t("error") }}</h3>
@@ -77,3 +85,9 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+li {
+  list-style-type: none;
+}
+</style>
