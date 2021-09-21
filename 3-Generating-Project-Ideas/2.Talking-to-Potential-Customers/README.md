@@ -20,7 +20,7 @@ What we will cover:
 
 > We covered how to identify problems, and what questions we need to ask ourselves when developing a solid project idea and pitch. Now that you’ve figured WHAT you want to Build and WHY it’s a problem you’d like to solve, it’s time to think about WHO this project helps. That’s right- it's time to talk to potential customers!
 
-## Summary
+## Lesson Complete
 
 Great job- you've chatted with potential customers, and have made efforts to better understand and empathize with your users. Next we'll refine out elevator pitch, and create a team vision statement.
 
