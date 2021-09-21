@@ -40,4 +40,4 @@ It's good to have a set of questions ready like the below:
 - Was it a sound choice of programming language/framework?
 - What changes would you make if any?
 
-👉  [**Move on the to the next lesson here!**](../3.Iterating-On-Your-Prototype/README.md)
+👉  [**Move on to the next lesson here!**](../3.Iterating-On-Your-Prototype/README.md)

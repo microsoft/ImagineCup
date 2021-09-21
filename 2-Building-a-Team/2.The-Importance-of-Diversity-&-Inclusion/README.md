@@ -7,4 +7,4 @@ When building a team, it is important that your team be both Diverse and Inclusi
 > 📹 Click the image above watch a video about what it means to have a Diverse and Inclusive team, and why it should be important to you. 
 
 
-👉  [**Move on the to the next lesson here!**](../3.Team-Collaboration-Tools/README.md)
+👉  [**Move on to the next lesson here!**](../3.Team-Collaboration-Tools/README.md)

@@ -42,4 +42,4 @@ it's easy to think that you want to add all these features to your prototype. Ta
 
 Can your prototype be used by anyone? Maybe your prototype is only meant to be used be a certain type of user but if not you've got everything to gain by thinking about accessibility early. At least consider how you would implement support for screen readers, translation and so on. It will definitely count in your favor towards a future jury and your users will thank you.
 
-👉  [**Move on the to the next lesson here!**](../2.Getting-Prototype-Feedback/README.md)
+👉  [**Move on to the next lesson here!**](../2.Getting-Prototype-Feedback/README.md)

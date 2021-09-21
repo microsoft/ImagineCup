@@ -25,7 +25,7 @@ Learn more about Tremor Vision on the Microsoft Tech Community Blog. ](https://t
 
 -2015 Global Citizenship winners, Opaque Media have received interest from NASA to partner on their Virtual Reality interactive space training platform, among other projects. 
 
--2014 winners Eyenaemia met with Bill Gates to share their anaemia diagnosis project.  
+-2014 winners Eyenaemia met with Bill Gates to share their anemia diagnosis project.  
 
 -2008 competitors Where Is My Shuttle received seed funding of $853K (R12million) in 2015, then $1.56 million (R22 million) in 2016 from Goodwell Ventures as well as Horizon Ventures and the Omidyar Network, which is a philanthropic investment firm created by eBay's founder.
 
@@ -61,5 +61,5 @@ These are just a few examples out of hundreds of other competitors who continue 
 > 📹 Click the image above watch 2020 World Finalists, Team Tremor Vision, share their advice on finding an idea worth pursuing.
 
 
-👉  [**Move on the to the next section here!**](../../2-Building-a-Team/README.md)
+👉  [**Move on to the next section here!**](../../2-Building-a-Team/README.md)
 

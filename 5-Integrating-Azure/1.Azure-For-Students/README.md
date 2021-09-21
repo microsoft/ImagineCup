@@ -20,4 +20,4 @@ After redeeming your Azure for Students subscription, you will land in the ‘Ed
 
 Azure for Students is built specifically for you, to provide any and all tools needed to discover, learn and build your project.
 
-👉  [**Move on the to the next lesson here!**](../2.Azure-101/README.md)
+👉  [**Move on to the next lesson here!**](../2.Azure-101/README.md)

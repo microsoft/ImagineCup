@@ -21,4 +21,4 @@ What we will cover in this video:
 
 Whoo-hoo! You've completed the pitch section of this training. Check out our next session to learn more about scaling your project and taking it to the next level. Give yourself a pat on the back- your project has come a long way!
 
-👉 [**Move on the to the next section here!**](../../7-Next-Level/README.md) 
+👉 [**Move on to the next section here!**](../../7-Next-Level/README.md) 

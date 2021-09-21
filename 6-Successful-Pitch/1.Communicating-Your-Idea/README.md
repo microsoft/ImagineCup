@@ -26,4 +26,4 @@ Your Homework? Answer these questions with your team:
 
 ---
 
-👉  [**Move on the to the next lesson here!**](../../6-Successful-Pitch/2.Pitching-as-a-Team/README.md) 
+👉  [**Move on to the next lesson here!**](../../6-Successful-Pitch/2.Pitching-as-a-Team/README.md) 

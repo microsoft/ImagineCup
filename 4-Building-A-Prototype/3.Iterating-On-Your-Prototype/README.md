@@ -33,4 +33,4 @@ You have something that work but you know it's brittle. The prototype might be l
 It's tempting to start to write more code as soon as you want a new feature. Hold off on that a little bit until you have a clear vision of what this new feature is, how it's supposed to work. It might even be worth to go back to pen and paper or the whiteboard to sketch it out first before writing more code. Spend as much time as needed in this phase and then start prototyping some code once you've gained more clarity.
 
 
-👉  [**Move on the to the next section here!**](../../5-Integrating-Azure/README.md)
+👉  [**Move on to the next section here!**](../../5-Integrating-Azure/README.md)
