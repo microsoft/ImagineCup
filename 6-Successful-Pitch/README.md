@@ -10,6 +10,7 @@ What we will cover in this section:
 - What questions to answer in your pitch
 - How to pitch as a team
 - How to structure your pitch presentation
+- Best practices with presentation slides
 - How to conquer stage fright
 - How to create a pitch deck
 
