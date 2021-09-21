@@ -25,7 +25,3 @@ Way to go! 🥳�🎉🎊 You've completed this 3 part video series on Imagine 
 
 👉  [**Move on to the next section here!**](../../4-Building-A-Prototype/README.md)
 
----
-
-## Additional Resources
-_Coming soon!_
