@@ -8,7 +8,7 @@ You've put together your team- now it's time to decide on a project! Let's go ov
 
 What we will cover in this video: 
 
-- How to indentify problems
+- How to identify problems
 - How to create an elevator pitch
 - What questions to ask when deciding on a project
 
