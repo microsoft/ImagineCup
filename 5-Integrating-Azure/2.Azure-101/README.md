@@ -51,4 +51,4 @@ The incredible part about Azure is that this platform offers solutions for a var
 - [Text Analytics API Overview](https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview)
 - [Text Analytics API Documentation](https://westus2.dev.cognitive.microsoft.com/docs/services/TextAnalytics-v3-1/operations/Languages)
 
-[**Move on the to the next lesson here!**](../3.An-Intro-to-Web-&-Mobile-Apps/README.md)
+👉  [**Move on the to the next lesson here!**](../3.An-Intro-to-Web-&-Mobile-Apps/README.md)

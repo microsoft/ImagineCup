@@ -43,4 +43,4 @@ For further preparation for any hackathons or competitions, we recommend [Micros
 You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine,  then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
 
 
-[**Get started with Section 1 here!**](/1-Imagine-Cup-Introduction/README.md)
+👉  [**Get started with Section 1 here!**](/1-Imagine-Cup-Introduction/README.md)

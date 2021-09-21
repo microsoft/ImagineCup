@@ -61,5 +61,5 @@ These are just a few examples out of hundreds of other competitors who continue 
 > 📹 Click the image above watch 2020 World Finalists, Team Tremor Vision, share their advice on finding an idea worth pursuing.
 
 
-[**Move on the to the next section here!**](../../2-Building-a-Team/README.md)
+👉  [**Move on the to the next section here!**](../../2-Building-a-Team/README.md)
 

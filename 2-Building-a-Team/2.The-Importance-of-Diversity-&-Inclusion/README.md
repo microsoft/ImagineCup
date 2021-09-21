@@ -40,4 +40,4 @@ As part of this lesson, you’ve learned the following:
 ## The Microsoft Garage, More Information
 
 
-[**Move on the to the next lesson here!**](../3.Team-Collaboration-Tools/README.md)
+👉  [**Move on the to the next lesson here!**](../3.Team-Collaboration-Tools/README.md)

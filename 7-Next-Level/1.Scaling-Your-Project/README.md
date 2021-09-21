@@ -61,4 +61,4 @@ Documentation is a huge part of any software project, but especially important a
   - Contributors Guides
   - Licensing 
 
-[**Move on the to the next lesson here!**](../2.Parting-Words-&-Advice/README.md)
+👉  [**Move on the to the next lesson here!**](../2.Parting-Words-&-Advice/README.md)
