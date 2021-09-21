@@ -26,7 +26,4 @@ Great job- you've chatted with potential customers, and have made efforts to bet
 
 👉  [**Move on to the next lesson here!**](../3.Vetting-Your-Project-Ideas/README.md)
 
----
 
-## Additional Resources
-_Coming soon!_
