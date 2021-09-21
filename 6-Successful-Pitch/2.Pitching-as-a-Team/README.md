@@ -1,5 +1,5 @@
 ## Section 6: Creating a Successful Pitch
-### Lesson 2/3: Pitching as a Team
+### Lesson 2/3: Pitching as a Team 📝
 
 ![IC pitch](https://user-images.githubusercontent.com/18564645/134086558-45f4781e-c46d-407d-bbe9-ac4f17024f7d.png)
 
@@ -13,7 +13,7 @@ What we will cover in this video:
 
 ## How to Create a Successful Pitch 
 
-### 2. Pitching as a Team 🗣
+### 2. Pitching as a Team 📝
 
 [![Pitching as a Team](https://user-images.githubusercontent.com/18564645/134134637-7dc85e13-e6a5-4aed-b253-2cd11a33d10a.png)](https://youtu.be/WJSKVSgOngM "Pitching as a Team")
 
