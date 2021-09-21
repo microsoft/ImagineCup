@@ -21,4 +21,4 @@ The video below recaps the innovation and impact from the 2020 Imagine Cup World
 > 📹 Click the image above watch the 2020 Imagine Cup World Championship Recap Video
 
 
-[**Move on the to the next lesson here!**](../2.Past-Winner-Stories/README.md)
+[**Move on the to the next lesson here!**](../2.More-Past-Winner-Stories/README.md)
