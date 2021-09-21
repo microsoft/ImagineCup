@@ -7,7 +7,7 @@ It's time to put together a pitch presentation for our project! Never done a pit
 
 What we will cover in this video: 
 
-- What is a picth?
+- What is a pitch?
 - What questions to answer in your pitch
 
 ## How to Create a Successful Pitch 
