@@ -20,7 +20,7 @@ What we will cover in this video:
 
 > So you’re going to put together a project- how exciting! Have you thought about what you want to build yet? Before you get started on building, designing, and coding your prize winning project- let's make sure we’re set up for success by answering a couple of questions!
 
-## Summary
+## Lesson Complete
 
 Great job- you've developed an elevator pitch with your team. Next up: let's talk to customers!
 
