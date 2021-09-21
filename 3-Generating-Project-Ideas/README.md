@@ -6,7 +6,7 @@ So, you've formed a team and you're ready to come up with a project idea... but 
 
 What we will cover in this section: 
 
-- How to indentify problems
+- How to identify problems
 - How to create an elevator pitch
 - What questions to ask when deciding on a project
 - How to speak with potential customers

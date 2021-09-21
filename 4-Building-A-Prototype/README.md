@@ -4,7 +4,7 @@
 >Photo by <a href="https://unsplash.com/@amayli?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Amélie Mourichon</a> on <a href="https://unsplash.com/s/photos/prototype?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
-When buliding a product, you should start by building a prototype. Building a prototype allows you to get your basic idea in front of your potential users, and helps you save time and effort when figuring out the right things to build. 
+When building a product, you should start by building a prototype. Building a prototype allows you to get your basic idea in front of your potential users, and helps you save time and effort when figuring out the right things to build. 
 
 ## Lessons in this Section
 

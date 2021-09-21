@@ -8,7 +8,7 @@ Ok so you want to build a prototype, there are things to consider. Some consider
 One of the earliest habits you want to adopt is using code revision. Code revision enables you to do many things like:
 
 - **Revise your code**. Create various saving points in your code that you can go back to
-- **Collaboration**. Using an established code revision like Git and GitHUb makes it easy to collaborate on the same code repository
+- **Collaboration**. Using an established code revision like Git and GitHub makes it easy to collaborate on the same code repository
 - **Release management**. You are likely to go in and out of periods in your code development when the code feels stable to move to a point where it's less stable because you are doing changes like refactoring or you are adding more functionality. You want to have the ability to point out a time in your code where it works well and _tag_ it as a candidate that can be released. The earlier you think about this, the more prepared you are to demo your system should you suddenly need to demo it to a jury or prospective customers.
 - **CI/CD**. Code revision systems usually integrate well with various systems to make it easy for you to produce releaseable code. So what is releaseable code? It's code that's well-tested and does what it's supposed to. You want to automate this process as early as possible so you focus on developing code and pushing it to a repository and then code is then tested and deployed to some system where it can be demoed. 
 
@@ -28,7 +28,7 @@ You want to think about testing early on. As your prototype becomes more and mor
 
 ## Instructions for running various parts of your code
 
-Although it sounds like documentation is something you can do much of at a later point. It make sense to think about documentation early. What you want to capture is how you start up various parts of your system or if there is configuration that makes the system behave differently. Also think about onboarding a new team member, what parts would they want to know to be able to run the prototype. Consider that this person could be anything from a technical to a non technical person, how would you explain your system differently to these types of roles?
+Although it sounds like documentation is something you can do much of at a later point. It makes sense to think about documentation early. What you want to capture is how you start up various parts of your system or if there is configuration that makes the system behave differently. Also think about onboarding a new team member, what parts would they want to know to be able to run the prototype. Consider that this person could be anything from a technical to a non-technical person, how would you explain your system differently to these types of roles?
 
 ## Use established frameworks and approaches
 

@@ -10,7 +10,7 @@ What we will cover:
   - Azure Extensions for Visual Studio Code
   - Azure Cognitive Services
 
-The incredible part about Azure is that this platform offers solutions for a variety of software projects for any size product; whether you're building a protoype in 24-hours as part of a hackathon or supporting a huge software company with millions of users, Azure has the tools to support you. With that, an introduction to Azure is often a difficult task, because it really starts with what *you* need and where to go from there. This module will introduce you to the Azure Portal, point you in the right direction for a number of Azure resources that are freely available, and introduce you to a couple of practical tips for getting started with Azure.
+The incredible part about Azure is that this platform offers solutions for a variety of software projects for any size product; whether you're building a prottoype in 24-hours as part of a hackathon or supporting a huge software company with millions of users, Azure has the tools to support you. With that, an introduction to Azure is often a difficult task, because it really starts with what *you* need and where to go from there. This module will introduce you to the Azure Portal, point you in the right direction for a number of Azure resources that are freely available, and introduce you to a couple of practical tips for getting started with Azure.
 
 ## 1. Introduction to the Azure Portal
 

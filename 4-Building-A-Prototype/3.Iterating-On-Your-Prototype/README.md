@@ -1,13 +1,13 @@
 ## Section 4: Building a Prototype
 ### Lesson 3/3: Iterating on your prototype
 
-A prototype shouldn't be a finished looking product with all the "bells and whistles". It's a prototype, also referred to sometime as a "walking skeleton". Your application should only focus on being able to deliver the core functionality and do it well. 
+A prototype shouldn't be a finished looking product with all the "bells and whistles". It's a prototype, also referred to as a "walking skeleton". Your application should only focus on being able to deliver the core functionality and do it well. 
 
 Think of your prototype development as having the following phases:
 
 1. **Ideation**, you start thinking of various ideas and may first start by creating mockups for the system just to get a feeling for it
-1. **Your first prototype**, you might start writing some code just to see that it's possible to create. It should have a "rough" look at this point, something that isn't pretty to look at, but it works
-1. **A stable prototype**. You prototype up until know probably just worked under certain conditions with certain type of input data and the code isn't pretty or even hard to change. Focus on refactoring the code, mov out configuration data and start thinking architecture
+2. **Your first prototype**, you might start writing some code just to see that it's possible to create. It should have a "rough" look at this point, something that isn't pretty to look at, but it works
+3. **A stable prototype**. You prototype up until know probably just worked under certain conditions with certain type of input data and the code isn't pretty or even hard to change. Focus on refactoring the code, mov out configuration data and start thinking architecture
 - **Back to step one**. At this point you have a stable core and you want to add features and make it even better. It's a good idea to start with pen and paper and mockups and/or user surveys just to understand what better looks like. Once you have a decent understanding then you can go to writing more code. 
 
 See all these steps as cyclical, ideate, write code, make it stable and ideate again.
