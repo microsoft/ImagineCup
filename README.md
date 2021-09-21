@@ -15,7 +15,7 @@ Microsoft Team members have come together to develop this training, and they are
 
 | Lesson Number | Topic | Section | Author |
 | :-----------: | :---: | :----: | :----: | 
-| 01 | [A Recap of Past Years](/1-Imagine-Cup-Introduction/1.1.A-Recap-of-Past-Years/README.md) | [Imagine Cup Introduction]( /1-Imagine-Cup-Introduction) | [Pablo Veramendi](https://twitter.com/IamPablo) |
+| 01 | [A Recap of Past Years](/1-Imagine-Cup-Introduction/1.A-Recap-of-Past-Years/README.md) | [Imagine Cup Introduction]( /1-Imagine-Cup-Introduction) | [Pablo Veramendi](https://twitter.com/IamPablo) |
 | 02 | [More Past Winner Stories]( /1-Imagine-Cup-Introduction/2.More-Past-Winner-Stories/README.md) | [Imagine Cup Introduction]( /1-Imagine-Cup-Introduction) | [Pablo Veramendi](https://twitter.com/IamPablo) |
 | 03 | [Strategies for Choosing Teammates](/2-Building-a-Team/1.Choosing-Your-Teammates/README.md) | [Building a Great Team](/2-Building-a-Team) | [The Microsoft Garage Team](https://www.microsoft.com/en-us/garage/) |
 | 04 | [The importance of Diversity & Inclusion](/2-Building-a-Team/2.The-Importance-of-Diversity-&-Inclusion)  | [Building a Great Team]( /2-Building-a-Team) | [Pablo Veramendi](https://twitter.com/IamPablo) & [Jalen McGee](https://twitter.com/JalenMcG) |
