@@ -19,6 +19,8 @@ What we will cover:
 
 > We’ve identified a problem we’d like to solve, and we’ve spoken to our potential customers and users for our project. Now it's time to refine our elevator pitch and create a team/project vision statement!
 
+Additional [vision statement resource](https://youtu.be/pppilHzwKbs)
+
 ## Lesson Complete
 
 Way to go! 🥳�🎉🎊 You've completed this 3 part video series on Imagine Cup training content to help generate your project ideas. Now it's time to start working on your prototype.
