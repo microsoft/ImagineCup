@@ -4,7 +4,7 @@
 
 Microsoft believes the next great thing could come from anyone, at any time. Now in its **20th** year with nearly 2 million past competitors worldwide, Imagine Cup is Microsoft’s global technology and innovation competition for students. With the goal of empowering every student on the planet to achieve more, young developers are invited to submit their original technology solutions utilizing Microsoft Azure for a chance to win cash, prizes, mentoring and more.
 
-Learn more about the Imagine Cup Competition [at the Imagine Cup Website](https://imaginecup.microsoft.com/en-us/Events)!
+Learn more about the Imagine Cup Competition [at the Imagine Cup Website](https://imaginecup.microsoft.com/Events)!
 This training content is aimed at students who will participate in the Imagine Cup Competition, or any other Hackathon-type competition.
 
 Microsoft Team members have come together to develop this training, and they are excited to share it with you!
@@ -37,7 +37,7 @@ Microsoft Team members have come together to develop this training, and they are
 
 ## Further Prep
 
-For further preparation for any hackathons or competitions, we recommend [Microsoft Learn](https://docs.microsoft.com/learn).
+For further preparation for any hackathons or competitions, we recommend [Microsoft Learn](https://docs.microsoft.com/learn/roles/student).
 ## Offline access
 
 You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine,  then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
