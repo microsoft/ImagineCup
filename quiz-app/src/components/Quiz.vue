@@ -6,22 +6,22 @@
         <ul>
           <li>
             <a class="final-link" href="https://www.aka.ms/ICWebinarOct"
-              >Live Webinar for October</a
+              >Live Webinar for October - Session Title: Advice from an Imagine Cup Competition Veteran"</a
             >
           </li>
           <li>
             <a class="final-link" href="https://www.aka.ms/ICWebinarNov"
-              >Live Webinar for November</a
+              >Live Webinar for November - Session Title: Capturing & Analyzing Data for Your Project</a
             >
           </li>
           <li>
             <a class="final-link" href="https://www.aka.ms/ICWebinarDec"
-              >Live Webinar for December</a
+              >Live Webinar for December - Session Title: Serverless – What is it & how can I use it for my project</a
             >
           </li>
           <li>
             <a class="final-link" href="https://www.aka.ms/ICWebinarJan"
-              >Live Webinar for January</a
+              >Live Webinar for January - Session Title: How to Prepare a Great Presentation</a
             >
           </li>
         </ul>
