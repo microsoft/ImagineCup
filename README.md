@@ -11,6 +11,8 @@ Microsoft Team members have come together to develop this training, and they are
 
 **Thank You to Our Authors:** Chloe Condon, Jalen McGee, Pablo Veramendi, Jen Looper, Sarah Guthals, Ryan Mendenhall, the Microsoft Garage Team, and Chris Noring. 
 
+### After this training, you'll have an opportunity to attend free, live webinars put on by Microsoft Cloud Advocates! You can do that by completing the [**Post Training Quiz**](https://zealous-pebble-06ae2440f.azurestaticapps.net/quiz/1) - and downloading the links at the end. 
+
 ## Lessons
 
 | Lesson Number | Topic | Section | Author |
@@ -36,6 +38,8 @@ Microsoft Team members have come together to develop this training, and they are
 | 19 | [Parting Advice]( /7-Next-Level/2.Parting-Words-&-Advice/README.md) | [Taking your project to the next level]( /7-Next-Level/README.md) | [Pablo Veramendi](https://twitter.com/IamPablo) |
 
 ## Further Prep
+
+### After this training, you'll have an opportunity to attend free, live webinars put on by Microsoft Cloud Advocates! You can do that by completing the [**Post Training Quiz**](https://zealous-pebble-06ae2440f.azurestaticapps.net/quiz/1) - and downloading the links at the end. 
 
 For further preparation for any hackathons or competitions, we recommend [Microsoft Learn](https://docs.microsoft.com/learn/roles/student).
 ## Offline access
