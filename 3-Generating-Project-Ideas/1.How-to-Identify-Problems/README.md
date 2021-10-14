@@ -4,7 +4,7 @@
 ![generate proj ideas](https://user-images.githubusercontent.com/18564645/133836600-4e8a62f0-224e-45b2-bdd3-745b9579fdc6.png)
 
 
-You've put together your team- now it's time to decide on a project! Let's go over what you should consider while brainstorming a developing a project idea!
+You've put together your team- now it's time to decide on a project! Let's go over what you should consider while brainstorming or developing a project idea!
 
 What we will cover in this video: 
 
