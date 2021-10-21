@@ -6,7 +6,7 @@
         <ul>
           <li>
             <a class="final-link" href="https://www.aka.ms/ICWebinarOct"
-              >Live Webinar for October - Session Title: Advice from an Imagine Cup Competition Veteran"</a
+              >Webinar 1, "Advice from an Imagine Cup Competition Veteran with Dmitry Soshnikov" has already been completed. Vire the Recording here!"</a
             >
           </li>
           <li>
