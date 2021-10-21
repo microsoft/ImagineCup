@@ -6,7 +6,7 @@
         <ul>
           <li>
             <a class="final-link" href="https://www.aka.ms/ICWebinarOct"
-              >Webinar 1, "Advice from an Imagine Cup Competition Veteran with Dmitry Soshnikov" has already been completed. View the Recording here!"<br></br></a
+              >Webinar 1, "Advice from an Imagine Cup Competition Veteran with Dmitry Soshnikov" has already been completed. View the recording here!"<br></br></a
             >
           </li>
           <li>
