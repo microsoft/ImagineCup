@@ -6,19 +6,17 @@
         <ul>
           <li>
             <a class="final-link" href="https://www.aka.ms/ICWebinarOct"
-              >Webinar 1, "Advice from an Imagine Cup Competition Veteran with Dmitry Soshnikov" has already been completed. View the Recording here!"
-              
-              </a
+              >Webinar 1, "Advice from an Imagine Cup Competition Veteran with Dmitry Soshnikov" has already been completed. View the Recording here!"<br></br></a
             >
           </li>
           <li>
             <a class="final-link" href="https://www.aka.ms/ICWebinarNov"
-              >Live Webinar for November - Session Title: Capturing & Analyzing Data for Your Project</a
+              >Live Webinar for November - Session Title: Capturing & Analyzing Data for Your Project<br></br></a
             >
           </li>
           <li>
             <a class="final-link" href="https://www.aka.ms/ICWebinarDec"
-              >Live Webinar for December - Session Title: Serverless – What is it & how can I use it for my project</a
+              >Live Webinar for December - Session Title: Serverless – What is it & how can I use it for my project<br></br></a
             >
           </li>
           <li>
