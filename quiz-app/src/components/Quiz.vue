@@ -5,7 +5,7 @@
         <h3 class="message">{{ $t("complete") }}</h3>
         <ul>
           <li>
-            <a class="final-link" href="https://www.aka.ms/ICWebinarOct"
+            <a class="final-link" href="https://www.aka.ms/ICWebinarOct" target="_blank"
               >On Demand: "Advice from an Imagine Cup Competition Veteran"</a
             >
           </li>
