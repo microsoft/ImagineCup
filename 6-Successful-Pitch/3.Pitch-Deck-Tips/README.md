@@ -3,7 +3,7 @@
 
 ![IC pitch](https://user-images.githubusercontent.com/18564645/134086558-45f4781e-c46d-407d-bbe9-ac4f17024f7d.png)
 
-You’ve worked hard to develop an elevator pitch, vision statement, and you’ve made a prototype. It’s time to share your story with some helpful visuals with a pitch deck!
+You’ve worked hard to develop an elevator pitch, a vision statement and you’ve made a prototype. It’s time to share your story with some helpful visuals in a pitch deck!
 
 
 What we will cover in this video: 
