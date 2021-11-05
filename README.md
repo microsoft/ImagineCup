@@ -27,7 +27,7 @@ Microsoft Team members have come together to develop this training, and they are
 
 ## Further Prep
 
-### After this training, you'll have an opportunity to attend free, live mentorship webinars put on by Microsoft Cloud Advocates! You can do that by completing the [**Post Training Quiz**](https://zealous-pebble-06ae2440f.azurestaticapps.net/quiz/1) - and accessing the meeting links. 
+### Be sure to complete the [**Post Training Quiz**](https://zealous-pebble-06ae2440f.azurestaticapps.net/quiz/1) - to access free, live trainings by Mircosoft Cloud Advocates! 
 
 For further preparation for any hackathons or competitions, we recommend [Microsoft Learn](https://docs.microsoft.com/learn/roles/student).
 ## Offline access
