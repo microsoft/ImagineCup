@@ -11,7 +11,7 @@ Microsoft Team members have come together to develop this training, and they are
 
 **Thank You to Our Authors:** Chloe Condon, Jalen McGee, Pablo Veramendi, Jen Looper, Sarah Guthals, Ryan Mendenhall, the Microsoft Garage Team, and Chris Noring. 
 
-### After this training, you'll have an opportunity to attend free, live mentorship webinars put on by Microsoft Cloud Advocates! You can do that by completing the [**Post Training Quiz**](https://zealous-pebble-06ae2440f.azurestaticapps.net/quiz/1) - and accessing the meeting links. 
+### After this training, you'll have an opportunity to attend free, live mentorship webinars put on by Microsoft Cloud Advocates. Our next webinar will be held on December 2nd at 18:00 GMT+0 with [Maxime Roullier](https://developer.microsoft.com/en-us/advocates/maxime-rouiller) on using Serverless Computing for your project! Gain access to the webinar meeting information by completing the [**Post Training Quiz**](https://zealous-pebble-06ae2440f.azurestaticapps.net/quiz/1). 
 
 ## Sections
 
@@ -27,9 +27,9 @@ Microsoft Team members have come together to develop this training, and they are
 
 ## Further Prep
 
-### Be sure to complete the [**Post Training Quiz**](https://zealous-pebble-06ae2440f.azurestaticapps.net/quiz/1) - to access free, live trainings by Mircosoft Cloud Advocates! 
+### Be sure to complete the [**Post Training Quiz**](https://zealous-pebble-06ae2440f.azurestaticapps.net/quiz/1) - to access free, live trainings by Microsoft Cloud Advocates! 
 
-Check out recordings from our Build Your Epic kickoff event on the [MSFTImagine YouTube Channel](https://youtube.com/playlist?list=PL6ihFEvicZRChfRGrshY5cm4nrBRu8yDT), featuring Ask Me Anything (AMA) sessions with Microsoft FTEs on the Imagine Cup categories and frequently used technologies as well as Azure Bootcamp Workshops on IoT, Lobe, PowerApps, and Web Development.
+Check out recordings from our Build Your Epic kickoff event on the [MSFTImagine YouTube Channel](https://aka.ms/BuildYourEpic-Recordings), featuring Ask Me Anything (AMA) sessions with Microsoft FTEs on the Imagine Cup categories and frequently used technologies as well as Azure Bootcamp Workshops on IoT, Lobe, PowerApps, and Web Development.
 
 For further preparation for any hackathons or competitions, we recommend [Microsoft Learn](https://docs.microsoft.com/learn/roles/student).
 
