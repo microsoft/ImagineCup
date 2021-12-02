@@ -29,7 +29,7 @@ Microsoft Team members have come together to develop this training, and they are
 
 ### Be sure to complete the [**Post Training Quiz**](https://zealous-pebble-06ae2440f.azurestaticapps.net/quiz/1) - to access free, live trainings by Microsoft Cloud Advocates! 
 
-Check out recordings from our Build Your Epic kickoff event on the [MSFTImagine YouTube Channel](https://youtube.com/playlist?list=PL6ihFEvicZRChfRGrshY5cm4nrBRu8yDT), featuring Ask Me Anything (AMA) sessions with Microsoft FTEs on the Imagine Cup categories and frequently used technologies as well as Azure Bootcamp Workshops on IoT, Lobe, PowerApps, and Web Development.
+Check out recordings from our Build Your Epic kickoff event on the [MSFTImagine YouTube Channel](https://aka.ms/BuildYourEpic-Recordings), featuring Ask Me Anything (AMA) sessions with Microsoft FTEs on the Imagine Cup categories and frequently used technologies as well as Azure Bootcamp Workshops on IoT, Lobe, PowerApps, and Web Development.
 
 For further preparation for any hackathons or competitions, we recommend [Microsoft Learn](https://docs.microsoft.com/learn/roles/student).
 
