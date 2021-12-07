@@ -11,12 +11,12 @@
           </li>
           <li>
             <a class="final-link" href="https://www.aka.ms/ICWebinarNov"
-              >Live Webinar for November - Session Title: Capturing & Analyzing Data for Your Project</a
+              >On Demand: "Capturing & Analyzing Data for Your Project"</a
             >
           </li>
           <li>
             <a class="final-link" href="https://www.aka.ms/ICWebinarDec"
-              >Live Webinar for December - Session Title: Serverless – What is it & how can I use it for my project</a
+              >On Demand: "Serverless – What is it & how you can use it for your project"</a
             >
           </li>
           <li>
