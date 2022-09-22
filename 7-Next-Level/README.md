@@ -5,8 +5,6 @@
   
 Your project won't end when the competition does! You want to take your project and continue to build on it and make it better. But how do you do that? Lesson 1 in this section will tell you how to scale your project, and Lesson 2 will give you some general advice for moving forward after a competition is over. 
 
-After lesson 2, you will have the chance to take a quiz that reflects on your learnings throughout this training. After passing the quiz and getting all the questions correct, you will receive links to 4 live webinars hosted by Microsoft Cloud Advocates where you'll learn even more about the Imagine Cup Competition, specific technologies you can use for your project, and even more tips for presenting to an audience. These webinars are happening once per month from October 2021 - January 2022!
-
 ## Lessons in this Section
 
 1. [Scaling Your Project **(Start Here!)**](./1.Scaling-Your-Project/README.md)

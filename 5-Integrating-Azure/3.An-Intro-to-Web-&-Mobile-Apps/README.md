@@ -5,8 +5,6 @@
 
 In this lesson, you will learn how to take a prototype and deploy it to the cloud. Assuming you have built your application for either a web or mobile platform, you need to find a way to showcase it live for users to try as a true prototype. In this lesson, you can view a series of videos on how to build a Power App for mobile, and how to build and deploy a web app using Azure Static Web Apps.
 
-[Introductory quiz](https://zealous-pebble-06ae2440f.azurestaticapps.net)
-
 **What we will cover:** 
 
 - Mobile Apps : Try a Power App
@@ -23,7 +21,7 @@ In this lesson, you will learn how to take a prototype and deploy it to the clou
 > 📹 Click the image to learn how to get started with Azure Static Web Apps with a series of videos
 ## Building with Power Apps
 
-Low-code solutions such as Power Apps are a great way to quickly move from prototype to production app in short order. This overview walks you through [Power Apps](https://dynamics.microsoft.com/guidedtour/power-platform/power-apps/1/1) and the many interesting things you can do with them.
+Low-code solutions such as Power Apps are a great way to quickly move from prototype to production app in short order. This overview walks you through [Power Apps](https://dynamics.microsoft.com/en-us/guidedtour/power-platform/power-apps/1/1) and the many interesting things you can do with them.
 
 - Learn more about Power Apps in [this introduction](https://docs.microsoft.com/learn/modules/introduction-power-apps/)
 

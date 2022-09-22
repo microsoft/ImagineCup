@@ -11,7 +11,7 @@ What we will cover:
 
 ## Introduction
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/wQxRf9sHIuo/0.jpg)](https://www.youtube.com/watch?v=wQxRf9sHIuo)
+[![Scaling your Project video](https://img.youtube.com/vi/wQxRf9sHIuo/0.jpg)](https://www.youtube.com/watch?v=wQxRf9sHIuo)
 > 📹 Click the image above watch a video about "Scaling Your Project"
 
 ## 1. The importance of understanding your users

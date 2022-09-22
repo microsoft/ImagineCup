@@ -13,16 +13,16 @@ When working on a team, communication and collaboration are very important. In t
 Successful teams communicate well. Microsoft Teams is one of many communication platforms that enables you to communicate quickly, and effectively. Let's learn a little bit more about Teams below. 
 
 ### What is Microsoft Teams?
-As stated on the [Microsoft Website](https://support.microsoft.com/en-us/office/welcome-to-microsoft-teams-b98d533f-118e-4bae-bf44-3df2470c2b12), Microsoft Teams is a collaboration app that helps your team stay organized and have conversations—all in one place. 
+As stated on the [Microsoft Website](https://support.microsoft.com/office/welcome-to-microsoft-teams-b98d533f-118e-4bae-bf44-3df2470c2b12), Microsoft Teams is a collaboration app that helps your team stay organized and have conversations—all in one place. 
 
 In Teams, the possibilities are endless. But you have 4 primary options when it comes to using Teams to work with others. You can Chat, Meet, Call, and Collaborate. Chatting enables you to share your opinion and have fun with your team. Send GIFs, stickers, and emojis in a group chat or in one-to-one messages. Then you can meet. You can instantly go from group chat to video conference with the touch of a button. Teams of two or 10,000 can meet in one place from anywhere. On top of that, you can make and receive calls directly in Microsoft Teams with advanced features like group calling, cloud voicemail, and call transfers. And lastly, you can collaborate by easily finding, sharing, and editing files in real time using familiar apps like Word, PowerPoint, and Excel right in Microsoft Teams.
 
 Watch the video below to learn more about Microsoft Teams. 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/jugBQqE_2sM/0.jpg)](https://www.youtube.com/watch?v=jugBQqE_2sM)
+[![Microsoft Teams video](https://img.youtube.com/vi/jugBQqE_2sM/0.jpg)](https://www.youtube.com/watch?v=jugBQqE_2sM)
 
 ### How do you get started with Microsoft Teams?
-To get started with Microsoft Teams, [download the Microsoft Teams app](https://www.microsoft.com/en-us/microsoft-teams/download-app) or visit the [Microsoft Teams website](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software) and sign up. There is a free option for Microsoft Teams that you can create for your project team.
+To get started with Microsoft Teams, [download the Microsoft Teams app](https://www.microsoft.com/microsoft-teams/download-app) or visit the [Microsoft Teams website](https://www.microsoft.com/microsoft-teams/group-chat-software) and sign up. There is a free option for Microsoft Teams that you can create for your project team.
 
 For more information on getting started with Microsoft Teams, visit this [Microsoft 365 Teams YouTube Playlist](https://www.youtube.com/playlist?list=PLXPr7gfUMmKwYKFSqoPN-aHQppI7rRQLf). 
 
@@ -37,16 +37,16 @@ At a high level, GitHub is a website and cloud-based service that helps develope
 
 Learn more about GitHub in the following video from the GitHub YouTube. 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/w3jLJU7DT5E/0.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E)
+[![GitHub Video](https://img.youtube.com/vi/w3jLJU7DT5E/0.jpg)](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 
 GitHub has [many great features](https://github.com/features) - one we will point out as especially useful for teams is [GitHub Project Boards](https://docs.github.com/en/issues/organizing-your-work-with-project-boards/managing-project-boards/about-project-boards). With GitHub Project Boards you can create Kanban boards that help you and your team track which work items you haven't done yet, are currently doing, or will do in the future. 
 
 ### How do you get started with GitHub?
-Get started with GitHub by signing up for an account at [Github.com](https://github.com/). After you have an account, you can use the [Get Started Guide](https://guides.github.com/activities/hello-world/) that the GitHub team has created to help you understand the platform. 
+Get started with GitHub by signing up for an account at [GitHub.com](https://github.com/). After you have an account, you can use the [Get Started Guide](https://guides.github.com/activities/hello-world/) that the GitHub team has created to help you understand the platform. 
 
 For more information on getting started on GitHub, view the "Getting Started with GitHub" video below from the [GitHub Training & Guides](https://www.youtube.com/channel/UCP7RrmoueENv9TZts3HXXtw) Youtube Channel. 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/noZnOSpcjYY/0.jpg)](https://www.youtube.com/watch?v=noZnOSpcjYY)
+[![GitHub Training & Guides](https://img.youtube.com/vi/noZnOSpcjYY/0.jpg)](https://www.youtube.com/watch?v=noZnOSpcjYY)
 
 ## Summary
 As part of this lesson, you’ve learned the following: 

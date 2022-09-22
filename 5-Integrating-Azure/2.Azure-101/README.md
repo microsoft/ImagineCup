@@ -14,7 +14,7 @@ The incredible part about Azure is that this platform offers solutions for a var
 
 ## 1. Introduction to the Azure Portal
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8xXUIbc9Gho/0.jpg)](https://www.youtube.com/watch?v=8xXUIbc9Gho)
+[![Intro to Azure Portal video](https://img.youtube.com/vi/8xXUIbc9Gho/0.jpg)](https://www.youtube.com/watch?v=8xXUIbc9Gho)
 > 📹 Click the image above watch a video about "An Introduction to the Azure Portal"
 
 ### Azure Portal Resources
@@ -23,7 +23,7 @@ The incredible part about Azure is that this platform offers solutions for a var
 
 ## 2. Microsoft Resources for Azure
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WhyAVVJHYBw/0.jpg)](https://www.youtube.com/watch?v=WhyAVVJHYBw)
+[![Microsoft Resources for Azure video](https://img.youtube.com/vi/WhyAVVJHYBw/0.jpg)](https://www.youtube.com/watch?v=WhyAVVJHYBw)
 > 📹 Click the image above watch a video about "Microsoft Resources for Azure"
 
 ### Resources for Azure
@@ -41,14 +41,13 @@ The incredible part about Azure is that this platform offers solutions for a var
 
 ## 3. Tips for a Practical Azure experience
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/X85OXvVhOIk/0.jpg)](https://www.youtube.com/watch?v=X85OXvVhOIk)
+[![Tips for Practical Azure Experience Video](https://img.youtube.com/vi/X85OXvVhOIk/0.jpg)](https://www.youtube.com/watch?v=X85OXvVhOIk)
 > 📹 Click the image above watch a video about "Tips for a Practical Azure Experience"
 
 ### Resources for a practical Azure experience
-- [Azure Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-azureextensionpack#:~:text=%20Azure%20Extension%20Pack%20%201%20Functions%20%28Serverless,deploy%2C%20and%20debug%20your%20IoT%20Edge...%20More%20)
+- [Azure Extension Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-node-azure-pack)
 - [Text Analytics Documentation](https://docs.microsoft.com/azure/cognitive-services/text-analytics/)
 - [Language Detection for Python QuickStart](https://docs.microsoft.com/azure/cognitive-services/text-analytics/quickstarts/client-libraries-rest-api?pivots=programming-language-python&tabs=version-3-2#language-detection)
 - [Text Analytics API Overview](https://docs.microsoft.com/azure/cognitive-services/text-analytics/overview)
-- [Text Analytics API Documentation](https://westus2.dev.cognitive.microsoft.com/docs/services/TextAnalytics-v3-1/operations/Languages)
 
 👉  [**Move on to the next lesson here!**](../3.An-Intro-to-Web-&-Mobile-Apps/README.md)

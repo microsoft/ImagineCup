@@ -11,7 +11,7 @@ What we will cover:
 
 This lesson is brought to by the [Microsoft Garage](https://www.microsoft.com/en-us/garage/). The Garage is a program that drives a culture of innovation at Microsoft. The Microsoft Garage delivers programs and experiences to Microsoft employees, customers, and partners that drive collaboration, creativity, and experimentation. The motto “doers, not talkers” continues to be the core of what the Garage is. The Garage attracts people who are passionate about making a difference in the world. They are relentlessly curious and lifelong, hands-on learners. By actively participating in the creative process, regardless of success or failure, each person gets the opportunity to gain valuable insights, increase their knowledge, and learn diverse perspectives.
 
-More information about the Garage is available [below](../../2-Building-a-Team/1/README.md#the-microsoft-garage-more-information), or by visiting https://www.microsoft.com/en-us/garage/.
+More information about the Garage is available [below](#the-microsoft-garage-more-information), or by visiting https://www.microsoft.com/garage/.
 
 
 ## Topic 1: Your Team & Your 'Wave'
@@ -23,7 +23,7 @@ Every big idea starts with a wave—a trend that presents an opportunity. How do
 Now, imagine you are a surfer. Watch the video below and apply a surfer's mindset to creating your next big idea.
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/tr_5AO08XBA/0.jpg)](https://www.youtube.com/watch?v=tr_5AO08XBA)
+[![Starting with a Wave video](https://img.youtube.com/vi/tr_5AO08XBA/0.jpg)](https://www.youtube.com/watch?v=tr_5AO08XBA)
 > 📹 Click the image above watch a video about "Starting with a Wave"
 
 As you just saw in the video, a big idea starts with recognizing a wave.
@@ -40,7 +40,7 @@ We now understand that a wave is a metaphor for an industry trend on the horizon
 
 Watch this video to see The Garage team member Ed Essey describe a wave and learn from examples of market-changing waves.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/73poIpSJD0o/0.jpg)](https://www.youtube.com/watch?v=73poIpSJD0o)
+[![Diving Deeper With Waves Video](https://img.youtube.com/vi/73poIpSJD0o/0.jpg)](https://www.youtube.com/watch?v=73poIpSJD0o)
 > 📹 Click the image above watch a video about "Diving Deeper With Waves"
 
 As you saw in the video, regardless of what causes a wave—a change in consumer behavior, a new government regulation, a market disruption, or a popular new technology—it inspires a need for ideas and innovation.
@@ -60,7 +60,7 @@ As you research waves and socialize your passion for your project, you will meet
 
 Watch this video to see Ed share questions you can ask yourself to find the right people for the work.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/VCHrW613pgw/0.jpg)](https://www.youtube.com/watch?v=VCHrW613pgw)
+[![Recruiting a Team video](https://img.youtube.com/vi/VCHrW613pgw/0.jpg)](https://www.youtube.com/watch?v=VCHrW613pgw)
 > 📹 Click the image above watch a video about "Recruiting a Team"
 
 As you saw in the video, you will meet others with similar passions and goals in hopes of adding them to your team. During your project, you will encounter steps you are unfamiliar with, so having the right people collaborating on a project will result in better outcomes.

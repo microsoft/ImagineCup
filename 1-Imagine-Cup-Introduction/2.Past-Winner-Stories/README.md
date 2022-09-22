@@ -16,7 +16,24 @@ Tremor Vision is a web-based tool that uses Microsoft Azure Custom Vision to ena
 [
 Learn more about Tremor Vision on the Microsoft Tech Community Blog. ](https://techcommunity.microsoft.com/t5/student-developer-blog/microsoft-imagine-cup-competitor-spotlight-janae-chan-and-tremor/ba-p/1976475)
 
-## Past Imagine Cup competitor achievements:
+## Highlights from past competitors 
+[![Team Protag Video](https://img.youtube.com/vi/fd3AeTub4Ss/0.jpg)](
+https://www.youtube.com/watch?v=fd3AeTub4Ss&list=PL6ihFEvicZRAt7rofBX9uLLn_Su24lTQw&index=4)
+> 📹 Click the image above to watch 2021 World Finalists, Team Protag, share where they are now
+
+[![Team smartARM Video](https://img.youtube.com/vi/VIXXxc02Anw/0.jpg)](
+https://www.youtube.com/watch?v=VIXXxc02Anw&list=PL6ihFEvicZRAt7rofBX9uLLn_Su24lTQw&index=5)
+> 📹 Click the image above to watch 2018 World Champions, Team smartARM, share where they are now
+
+[![Team REWEBA Video](https://img.youtube.com/vi/cSHEIU36Dzg/0.jpg)](
+https://www.youtube.com/watch?v=cSHEIU36Dzg&list=PL6ihFEvicZRAt7rofBX9uLLn_Su24lTQw&index=6)
+> 📹 Click the image above to watch 2021 World Champions, Team REWEBA, share where they are now
+
+[![Team Oculogx Video](https://img.youtube.com/vi/-dS6TRqqDd4/0.jpg)](
+https://www.youtube.com/watch?v=-dS6TRqqDd4&list=PL6ihFEvicZRAt7rofBX9uLLn_Su24lTQw&index=7)
+> 📹 Click the image above to watch 2017 World Finalists, Team Oculogx, share where they are now
+
+## Other past Imagine Cup competitor highlights:
 -2018 World Champions, team smartARM, recently shared their project with Canadian Prime Minister Justin Trudeau. 
 
 -2016 team AMANDA spoke at WE DAY Toronto in October 2016 along with Head of Microsoft Canada, Janet Kennedy, providing inspiration to over 23000 teenagers. They’ve also been invited to participate in numerous conferences and events like the International Conference of anti-bullying practices 2016 and the TEDxUniversityofPiraeus 2017.
@@ -31,35 +48,27 @@ Learn more about Tremor Vision on the Microsoft Tech Community Blog. ](https://t
 
 -Some competitors have gone on to develop successful careers at Microsoft, including 2016 World Finalist Alyssa Ong who’s now a Microsoft Technology Evangelist, and World Finalist Li Jung Chiu, now a Microsoft Audience Evangelism Manager.  
 
-
 ![image](https://user-images.githubusercontent.com/87670464/134095959-da775b33-dd5c-4a00-be4f-cd5013e6e184.png)
 >Eyenaemia sharing their project with Bill Gates, 2014
 
 ![image](https://user-images.githubusercontent.com/87670464/134095986-16d30665-f079-42a3-af1d-f38530a09589.png)
 >smartARM with Prime Minister Justin Trudeau, 2019
 
-## Other highlights from past competitors 
 
-For their 2019 Imagine Cup project, [Finderr](https://beacons.page/finderr) created an Artificial Intelligence app solution to help visually impaired individuals find lost objects through their phones. Since competing, Finderr has continued working on their project, added new members to their team, and recently launched their iOS app in the App Store. 
+## Advice for the next Imagine Cup World Champion
+### from past competitors, Microsoft employees, judges and more!
 
-2018 World Finalists [iCry2Talk](http://icry2talk.com/) have also continued to work on their app to translate a baby’s cry, making it available to download and giving numerous presentations since competing, including a TEDXAUTH talk. 2018 World Champions, team smartARM, had the opportunity to share their Machine Learning powered robotic prosthetic hand with Canadian Prime Minister Justin Trudeau.   
+[![Sharpening skills Video](https://img.youtube.com/vi/_zS9Oqos3eA/0.jpg)](https://www.youtube.com/watch?v=_zS9Oqos3eA&list=PL6ihFEvicZRAt7rofBX9uLLn_Su24lTQw&index=8)
+> 📹 Click the image above to watch the "Sharpening skills" video
 
-2016 competitor [Petros Psyllos](https://petrospsyllos.com/en/achievements) is recognized by American and Polish Forbes in the top 30 brightest young inventors under 30 in Poland. He’s received over 17 main awards at national and international level in the field of invention, and also won a Microsoft Research Special Award.   
+[![Words of advice Video](https://img.youtube.com/vi/0vCjjnDAIOM/0.jpg)](https://www.youtube.com/watch?v=0vCjjnDAIOM&list=PL6ihFEvicZRAt7rofBX9uLLn_Su24lTQw&index=9)
+> 📹 Click the image above to watch the "Words of advice" video
 
-These are just a few examples out of hundreds of other competitors who continue to innovate, inspire, and impact every day. We’re so glad the Imagine Cup was a part of their journey to make a difference with tech. 
+[![Making an impact Video](https://img.youtube.com/vi/7mxrjgIW0cM/0.jpg)](https://www.youtube.com/watch?v=7mxrjgIW0cM&list=PL6ihFEvicZRAt7rofBX9uLLn_Su24lTQw&index=10)
+> 📹 Click the image above to watch the "Making an impact" video
 
-## Advice for the next Imagine Cup World Champion 
-
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/g6Fb0gwnvDo/0.jpg)](https://www.youtube.com/watch?v=g6Fb0gwnvDo)
-> 📹 Click the image above watch 2020 World Finalists, Team Syrinx, share why they believe all students should try competing in Imagine Cup.
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/LeDmw-lmUdg/0.jpg)](https://www.youtube.com/watch?v=LeDmw-lmUdg)
-> 📹 Click the image above watch 2020 World Champions, Team Hollo, share what it means to innovate for the future and how Imagine Cup can help you get started.
-
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/eFc82A8EOus/0.jpg)](https://www.youtube.com/watch?v=eFc82A8EOus)
-> 📹 Click the image above watch 2020 World Finalists, Team Tremor Vision, share their advice on finding an idea worth pursuing.
-
+[![Success Video](https://img.youtube.com/vi/4pg6-5hrT1c/0.jpg)](https://www.youtube.com/watch?v=4pg6-5hrT1c&list=PL6ihFEvicZRAt7rofBX9uLLn_Su24lTQw&index=11)
+> 📹 Click the image above to watch the "Success" video
 
 👉  [**Move on to the next section here!**](../../2-Building-a-Team/README.md)
 
