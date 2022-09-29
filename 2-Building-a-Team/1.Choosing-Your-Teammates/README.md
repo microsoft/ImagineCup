@@ -58,6 +58,8 @@ Now that you understand what waves are and how to identify them, you can move fo
 
 As you research waves and socialize your passion for your project, you will meet people with similar passions. Think broadly as you consider who your project needs. Diverse teams have better outcomes.
 
+> 💡 Pro-Tip: You can also find and meet potential teammates on our Imagine Cup Discord community, which you can join from [your Imagine Cup account page](https://imaginecup.microsoft.com/account). The #find-teammates channel on the Discord server is the best place to meet fellow Imagine Cup participants around the world.
+
 Watch this video to see Ed share questions you can ask yourself to find the right people for the work.
 
 [![Recruiting a Team video](https://img.youtube.com/vi/VCHrW613pgw/0.jpg)](https://www.youtube.com/watch?v=VCHrW613pgw)
@@ -86,6 +88,7 @@ As part of this lesson, you’ve learned the following:
  - Build the people you have recruited into a team by encouraging open
    mindedness, describing member roles, establishing how decisions are
    made, and creating avenues for collaboration.
+- Join the Imagine Cup Discord community from [your Imagine Cup account page](https://imaginecup.microsoft.com/account) to find teammates
 
 ## The Microsoft Garage, More Information
 

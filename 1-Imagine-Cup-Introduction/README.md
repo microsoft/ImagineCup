@@ -1,6 +1,6 @@
 ## Section 1: Imagine Cup Introduction
 
-![fe4116ab-845e-45f3-99d6-1f2d9845556a](https://user-images.githubusercontent.com/87670464/134025914-a6b6383d-05ff-4011-ab35-a97b726356a0.png)
+![fe4116ab-845e-45f3-99d6-1f2d9845556a](https://user-images.githubusercontent.com/21200448/193069334-dd24f262-3961-4d36-8999-e0aa1d43e7df.png)
 
 The 2 lessons in this section will give you an introduction to the [Imagine Cup Competition](https://imaginecup.microsoft.com/). You will learn about the history of the Imagine Cup, and you will learn about some past winners of the competition. 
 
