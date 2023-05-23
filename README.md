@@ -3,7 +3,7 @@
 ![1200x628_ImagineCup2022_FB_Banner_Black_20yrs_B](https://user-images.githubusercontent.com/21200448/193068973-19264c73-9c20-4cba-9944-537f4e413972.png)
 
 
-Microsoft believes the next great thing could come from anyone, at any time. Now in its **21st** year with nearly 2 million past competitors worldwide, Imagine Cup is Microsoft’s global technology and innovation competition for students. With the goal of empowering every student on the planet to achieve more, young developers are invited to submit their original technology solutions utilizing Microsoft Azure for a chance to win cash, prizes, mentoring and more. 
+Microsoft believes the next great thing could come from anyone, at any time. Now in its **22nd** year with nearly 2 million past competitors worldwide, Imagine Cup is Microsoft’s global technology and innovation competition for students. With the goal of empowering every student on the planet to achieve more, young developers are invited to submit their original technology solutions utilizing Microsoft Azure for a chance to win cash, prizes, mentoring and more. 
 
 Learn more about the Imagine Cup Competition [at the Imagine Cup Website](https://imaginecup.microsoft.com/Events)!
 
