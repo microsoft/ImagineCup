@@ -33,7 +33,7 @@ For further preparation for any hackathons or competitions, we recommend [Micros
 
 ## Offline access
 
-You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine,  then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`.
+You can run this documentation offline by using [Docsify](https://docsify.js.org/#/). Fork this repo, [install Docsify](https://docsify.js.org/#/quickstart) on your local machine,  then in the root folder of this repo, type `docsify serve`. The website will be served on port 3000 on your localhost: `localhost:3000`
 
 ## Connect with the Imagine Cup community
 Join the Imagine Cup Discord  from [your Imagine Cup account page](https://imaginecup.microsoft.com/account) to connect with other Imagine Cup participants, Microsoft employees, and more. It's the best place for Imagine Cup announcements, finding teammates and mentors, and learning about even more resources!
