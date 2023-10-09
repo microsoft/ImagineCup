@@ -1,7 +1,6 @@
-## Welcome to supported learning and information for the Imagine Cup Competition!
+## Welcome to the supported learning and information for the Imagine Cup Competition!
 
-![1200x628_ImagineCup2022_FB_Banner_Black_20yrs_B](https://user-images.githubusercontent.com/21200448/193068973-19264c73-9c20-4cba-9944-537f4e413972.png)
-
+![Image](https://github.com/microsoft/ImagineCup/blob/main/ImagineCupHeader.png)
 
 Microsoft believes the next great thing could come from anyone, at any time. Now in its **22nd** year with nearly 2 million past competitors worldwide, the 2024 Imagine Cup has launched as the global technology startup competition for visionary student entrepreneurs harnessing the power of AI.
 
