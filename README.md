@@ -1,25 +1,34 @@
-## Welcome to the supported learning and information for the Imagine Cup Competition!
 
-![Image](https://github.com/microsoft/ImagineCup/blob/main/ImagineCupHeader.png)
+![Image](images/ImagineCupHeader.png)
 
-Microsoft believes the next great thing could come from anyone, at any time. Now in its **22nd** year with nearly 2 million past competitors worldwide, the 2024 Imagine Cup has launched as the global technology startup competition for visionary student entrepreneurs harnessing the power of AI.
+### Resources to help you enter, and perhaps win, the Imagine Cup 🏆
 
-Build with AI through access to technology, receive expert technical and entrepreneurial mentorship, and the chance to win USD100,000 and an exclusive mentorship session with Microsoft CEO, Satya Nadella. It's your moment to accelerate your startup and showcase your visionary ideas on the global stage!
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/3bNDZ3hC)](https://discord.gg/3bNDZ3hC)
 
-Kickstart your Imagine Cup journey by submitting your innovative AI startup idea. Qualify for Founders Hub, access USD1,000 of Azure credits and USD2,500 of OpenAI credits and self-paced training to transform your ideas into impactful startups! 
+# Welcome to Your Imagine Cup Journey
 
-Learn more about the Imagine Cup Competition [at the Imagine Cup Website](https://imaginecup.microsoft.com/Events)!
+> Microsoft believes that the next great breakthrough can come from anyone, anywhere. Now entering its 23rd year, with nearly 2 million competitors from around the world, the Imagine Cup stands as the premier global technology startup competition for visionary student entrepreneurs who are harnessing the power of AI to shape the future.
 
-This training content is aimed at students who will participate in the Imagine Cup Competition, or any other Hackathon-type competition.
+---
 
-**What's on this page**
+## 💡Why Imagine Cup?
 
-**Learning** - in this [section](https://github.com/microsoft/ImagineCup/blob/main/learning.md) explore recommended modules and learning paths on Microsoft Learn, including training on AI, Azure and start-ups.
+By participating in the Imagine Cup, you will:
 
-**Content and Experiences** - in this [section](https://github.com/microsoft/ImagineCup/blob/main/contentexp.md) find links to demos, content and links to help with building your MVP.
+- 🤖 Build and scale with AI technologies through access to Microsoft's cutting-edge platforms and services.
+- 💼 Receive expert technical and entrepreneurial mentorship to guide your journey.
+- 🏆 Compete for a chance to win USD100,000 and an exclusive mentorship session with Microsoft CEO, Satya Nadella.
 
+It’s your moment to turn your visionary ideas into impactful startups and take your innovation to the global stage!
 
-## Connect with the Imagine Cup community
-Join the Imagine Cup Discord  from [your Imagine Cup account page](https://imaginecup.microsoft.com/account) to connect with other Imagine Cup participants, Microsoft employees, and more. It's the best place for Imagine Cup announcements, finding teammates and mentors, and learning about even more resources!
+---
+🚀 Start your journey now by submitting your innovative AI-powered startup idea. Qualify for Founders Hub and unlock access to:
 
+- USD1,000 in Azure credits
+- USD2,500 in OpenAI credits
+- Self-paced training and tools to help bring your idea to life!
+- Learn more at the Imagine Cup Website.
 
+## 🤝 Mentorship & Community
+
+No great project is built in isolation. That’s why we encourage you to seek out mentors and leverage the [Imagine Cup Discord community](https://discord.gg/3bNDZ3hC). Whether it's advice on tech stack choices, refining your pitch, or navigating challenges, mentorship can make a huge difference.
